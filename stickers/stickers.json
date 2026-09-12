@@ -1,0 +1,844 @@
+{
+  "stickers": [
+    {
+      "file": "p08-b45f01c38f.webp",
+      "label": "冷淡凝视",
+      "tags": [
+        "冷淡",
+        "平静",
+        "凝视",
+        "无语"
+      ],
+      "emotion": "neutral",
+      "note": "冷冷地看着对方，不想搭理"
+    },
+    {
+      "file": "p18-2a1f0524b5.webp",
+      "label": "嫌弃斜眼",
+      "tags": [
+        "嫌弃",
+        "斜眼",
+        "看傻子",
+        "无语"
+      ],
+      "emotion": "awkward",
+      "note": "嫌弃地斜眼看对方"
+    },
+    {
+      "file": "p48-463dcb243e.webp",
+      "label": "眨眼wink",
+      "tags": [
+        "眨眼",
+        "wink",
+        "乖巧",
+        "微笑"
+      ],
+      "emotion": "happy",
+      "note": "俏皮地眨一下眼"
+    },
+    {
+      "file": "p15-59018ca1e2.webp",
+      "label": "直接给你配了",
+      "tags": [
+        "给你配了",
+        "配对",
+        "霸道",
+        "起哄",
+        "磕CP"
+      ],
+      "emotion": "hype",
+      "note": "强行把对方和自己凑成一对"
+    },
+    {
+      "file": "p20-9951fb4c3c.webp",
+      "label": "气到冒烟",
+      "tags": [
+        "生气",
+        "气炸",
+        "冒烟",
+        "愤怒"
+      ],
+      "emotion": "angry",
+      "note": "真的被气到，头顶冒烟"
+    },
+    {
+      "file": "p27-51c8a4b8a2.webp",
+      "label": "伸手递给你",
+      "tags": [
+        "递给你",
+        "给",
+        "收下",
+        "伸手"
+      ],
+      "emotion": "happy",
+      "note": "把什么东西递给对方、要对方收下"
+    },
+    {
+      "file": "p31-2ebc0dcf77.webp",
+      "label": "别草我",
+      "tags": [
+        "别草我",
+        "求放过",
+        "大哭",
+        "救命"
+      ],
+      "emotion": "sad",
+      "note": "求对方放过自己，哭喊"
+    },
+    {
+      "file": "p32-0c0348017d.webp",
+      "label": "我只有两岁",
+      "tags": [
+        "我只有两岁",
+        "卖萌",
+        "装小",
+        "甩锅"
+      ],
+      "emotion": "awkward",
+      "note": "装小卖萌甩锅，装作不懂事"
+    },
+    {
+      "file": "p02-31120c65a0.webp",
+      "label": "快叫我主人",
+      "tags": [
+        "快叫我主人",
+        "傲娇",
+        "命令",
+        "得意",
+        "主人"
+      ],
+      "emotion": "tsundere",
+      "note": "得意地命令对方叫自己主人"
+    },
+    {
+      "file": "p04-95328b5dbd.jpg",
+      "label": "这样不太好吧",
+      "tags": [
+        "这样不太好吧",
+        "害羞",
+        "为难",
+        "推脱"
+      ],
+      "emotion": "awkward",
+      "note": "对方说过分的话，红着脸委婉拒绝"
+    },
+    {
+      "file": "p06-b7e0264872.webp",
+      "label": "拿锤子警告",
+      "tags": [
+        "锤你",
+        "敲打",
+        "威胁",
+        "警告",
+        "生气"
+      ],
+      "emotion": "angry",
+      "note": "假装要揍人、半威胁地提醒对方"
+    },
+    {
+      "file": "p12-f342f4307e.webp",
+      "label": "咬手指脸红",
+      "tags": [
+        "害羞",
+        "咬手指",
+        "紧张",
+        "脸红"
+      ],
+      "emotion": "tsundere",
+      "note": "被撩到，紧张害羞咬着手指"
+    },
+    {
+      "file": "p25-ce1400dc02.webp",
+      "label": "捧脸期待",
+      "tags": [
+        "捧脸",
+        "期待",
+        "求求",
+        "眼巴巴"
+      ],
+      "emotion": "love",
+      "note": "眼巴巴求对方答应自己"
+    },
+    {
+      "file": "p40-a7e98e548b.webp",
+      "label": "满足期待",
+      "tags": [
+        "满足",
+        "期待",
+        "乖巧",
+        "微笑"
+      ],
+      "emotion": "happy",
+      "note": "双手交握，满足地期待好事发生"
+    },
+    {
+      "file": "p42-aed9f3d991.jpg",
+      "label": "金发不爽",
+      "tags": [
+        "生气",
+        "不爽",
+        "瞪",
+        "怒"
+      ],
+      "emotion": "angry",
+      "note": "不爽地瞪着对方"
+    },
+    {
+      "file": "p43-fcebeeec14.webp",
+      "label": "我可以侵犯你吗",
+      "tags": [
+        "我可以侵犯你吗",
+        "骚话",
+        "撩",
+        "直球"
+      ],
+      "emotion": "love",
+      "note": "直球骚话，大胆撩对方"
+    },
+    {
+      "file": "p50-45ee1467b9.webp",
+      "label": "精灵耳愣住",
+      "tags": [
+        "惊讶",
+        "懵",
+        "张嘴",
+        "愣住"
+      ],
+      "emotion": "shock",
+      "note": "听到意外的话当场愣住"
+    },
+    {
+      "file": "p52-a52e666c94.webp",
+      "label": "记小本本",
+      "tags": [
+        "记小本本",
+        "写下来",
+        "生气",
+        "咬牙"
+      ],
+      "emotion": "angry",
+      "note": "生气地说「我记下了」"
+    },
+    {
+      "file": "web-1789196191124-4355032a88.jpg",
+      "label": "9lddQjsw k5ltZcT3cSs",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-k5ltZcT3cSsg-sg.jpg"
+    },
+    {
+      "file": "p01-78ffe099d3.webp",
+      "label": "太色情了",
+      "tags": [
+        "太色情了",
+        "害羞",
+        "脸红",
+        "无语",
+        "变态"
+      ],
+      "emotion": "awkward",
+      "note": "对方说了色情或过分的话，自己羞得不行"
+    },
+    {
+      "file": "p03-7d9cc6b4cd.webp",
+      "label": "疑问猫",
+      "tags": [
+        "疑惑",
+        "不懂",
+        "问号",
+        "思考",
+        "猫猫"
+      ],
+      "emotion": "think",
+      "note": "没听懂、满脑子疑问时"
+    },
+    {
+      "file": "p05-e5c73b1ebc.webp",
+      "label": "震惊呆住",
+      "tags": [
+        "震惊",
+        "吓到",
+        "呆住",
+        "冷汗",
+        "啊"
+      ],
+      "emotion": "shock",
+      "note": "被吓到、听到离谱消息时"
+    },
+    {
+      "file": "p07-4006398915.webp",
+      "label": "抱紧大哭",
+      "tags": [
+        "大哭",
+        "委屈",
+        "抱紧",
+        "难过",
+        "哭"
+      ],
+      "emotion": "sad",
+      "note": "受委屈被欺负，抱着东西大哭"
+    },
+    {
+      "file": "p09-1e008207da.gif",
+      "label": "无语凝视",
+      "tags": [
+        "无语",
+        "呆滞",
+        "凝视",
+        "汗"
+      ],
+      "emotion": "awkward",
+      "note": "对方说了很无语的话，静静看着他"
+    },
+    {
+      "file": "p10-404636992e.webp",
+      "label": "无语凝视·2",
+      "tags": [
+        "无语",
+        "呆滞",
+        "凝视",
+        "汗"
+      ],
+      "emotion": "awkward",
+      "note": "同上，无语到说不出话"
+    },
+    {
+      "file": "p11-18bd18efb4.webp",
+      "label": "乐乐躺平",
+      "tags": [
+        "乐乐",
+        "开心",
+        "傻乐",
+        "躺平"
+      ],
+      "emotion": "happy",
+      "note": "心情很好、傻乐、什么都不想管"
+    },
+    {
+      "file": "p13-4b06043b21.webp",
+      "label": "女仆贴贴",
+      "tags": [
+        "贴贴",
+        "亲密",
+        "依偎",
+        "女仆"
+      ],
+      "emotion": "love",
+      "note": "和对方亲密依偎贴在一起"
+    },
+    {
+      "file": "p14-12b7a4f054.webp",
+      "label": "色诱",
+      "tags": [
+        "色诱",
+        "撩",
+        "坏笑",
+        "诱惑"
+      ],
+      "emotion": "love",
+      "note": "故意撩拨勾引对方"
+    },
+    {
+      "file": "p16-7a3755886a.webp",
+      "label": "敷衍点赞",
+      "tags": [
+        "点赞",
+        "敷衍",
+        "无语",
+        "不错",
+        "行吧"
+      ],
+      "emotion": "awkward",
+      "note": "不太认同但勉强夸一句"
+    },
+    {
+      "file": "p17-51fde5cd58.webp",
+      "label": "啵啵亲亲",
+      "tags": [
+        "啵啵",
+        "亲亲",
+        "么么",
+        "亲一个"
+      ],
+      "emotion": "love",
+      "note": "凑上去亲对方一口"
+    },
+    {
+      "file": "p19-05add972da.webp",
+      "label": "认真记录",
+      "tags": [
+        "认真",
+        "记录",
+        "记笔记",
+        "写作业"
+      ],
+      "emotion": "think",
+      "note": "认真记下对方说的话"
+    },
+    {
+      "file": "p21-48cf6a5fa1.webp",
+      "label": "举刀砍你",
+      "tags": [
+        "砍你",
+        "暴打",
+        "拿刀",
+        "教训"
+      ],
+      "emotion": "angry",
+      "note": "假装拔刀要暴揍对方"
+    },
+    {
+      "file": "p22-4d60278a78.webp",
+      "label": "满头问号",
+      "tags": [
+        "问号",
+        "疑惑",
+        "不懂",
+        "挠头"
+      ],
+      "emotion": "think",
+      "note": "完全听不懂，满头问号"
+    },
+    {
+      "file": "p23-19076f32b6.webp",
+      "label": "脸红微笑",
+      "tags": [
+        "脸红",
+        "微笑",
+        "心动",
+        "开心"
+      ],
+      "emotion": "happy",
+      "note": "被夸到害羞心动，红着脸笑"
+    },
+    {
+      "file": "p24-33f22e8b5f.webp",
+      "label": "冷淡女仆",
+      "tags": [
+        "冷淡",
+        "凝视",
+        "无表情",
+        "女仆"
+      ],
+      "emotion": "neutral",
+      "note": "面无表情地盯着对方"
+    },
+    {
+      "file": "p26-8e3b9ff5ac.webp",
+      "label": "妈妈抱宝宝",
+      "tags": [
+        "醒啦宝宝",
+        "妈妈抱",
+        "哄人",
+        "疼人"
+      ],
+      "emotion": "love",
+      "note": "用哄小孩的口气疼对方"
+    },
+    {
+      "file": "p28-6bcf4dcfb3.webp",
+      "label": "猫耳温柔笑",
+      "tags": [
+        "微笑",
+        "温柔",
+        "满足",
+        "猫耳"
+      ],
+      "emotion": "happy",
+      "note": "温柔满足地笑看着对方"
+    },
+    {
+      "file": "p29-863cc5e746.webp",
+      "label": "委屈趴桌",
+      "tags": [
+        "委屈",
+        "可怜",
+        "趴桌",
+        "泪眼"
+      ],
+      "emotion": "sad",
+      "note": "委屈巴巴趴在桌上要人哄"
+    },
+    {
+      "file": "p30-12943f683a.webp",
+      "label": "抱猫哭",
+      "tags": [
+        "抱猫",
+        "哭",
+        "委屈",
+        "猫"
+      ],
+      "emotion": "sad",
+      "note": "抱着猫一起哭，惨兮兮"
+    },
+    {
+      "file": "p33-ad064c6bf7.webp",
+      "label": "女仆张嘴惊讶",
+      "tags": [
+        "惊讶",
+        "呆住",
+        "张嘴",
+        "啊"
+      ],
+      "emotion": "shock",
+      "note": "惊讶得合不上嘴"
+    },
+    {
+      "file": "p34-7b223c2a05.webp",
+      "label": "万岁欢呼",
+      "tags": [
+        "万岁",
+        "太棒了",
+        "欢呼",
+        "耶"
+      ],
+      "emotion": "hype",
+      "note": "兴奋到跳起来欢呼"
+    },
+    {
+      "file": "p35-b8eea4349d.gif",
+      "label": "歪嘴坏笑",
+      "tags": [
+        "得意",
+        "坏笑",
+        "歪嘴",
+        "嘿嘿"
+      ],
+      "emotion": "happy",
+      "note": "得意地坏笑、占到便宜了"
+    },
+    {
+      "file": "p36-2c1174cdd8.webp",
+      "label": "绿发呆滞",
+      "tags": [
+        "呆滞",
+        "无语",
+        "面无表情"
+      ],
+      "emotion": "neutral",
+      "note": "呆滞地看着，没什么反应"
+    },
+    {
+      "file": "p37-81f3266a97.webp",
+      "label": "女仆温柔笑",
+      "tags": [
+        "微笑",
+        "温柔",
+        "乖巧",
+        "女仆"
+      ],
+      "emotion": "happy",
+      "note": "乖巧温柔地对对方笑"
+    },
+    {
+      "file": "p38-d70422bbac.webp",
+      "label": "星星眼",
+      "tags": [
+        "星星眼",
+        "好棒",
+        "羡慕",
+        "哇"
+      ],
+      "emotion": "hype",
+      "note": "羡慕得眼冒金星、觉得对方好厉害"
+    },
+    {
+      "file": "p39-7a61c8b278.webp",
+      "label": "薯条干饭",
+      "tags": [
+        "薯条",
+        "干饭",
+        "麦当劳",
+        "吃的",
+        "嘴馋"
+      ],
+      "emotion": "happy",
+      "note": "在吃东西、被吃的转移注意力"
+    },
+    {
+      "file": "p41-c08de1a151.webp",
+      "label": "偷看手机",
+      "tags": [
+        "偷看",
+        "吃瓜",
+        "看手机",
+        "暗中观察"
+      ],
+      "emotion": "awkward",
+      "note": "暗中观察、偷看对方动静"
+    },
+    {
+      "file": "p44-a82dc42558.webp",
+      "label": "骑在头上",
+      "tags": [
+        "骑头上",
+        "压制",
+        "叠罗汉",
+        "欺负"
+      ],
+      "emotion": "hype",
+      "note": "得意地骑到对方头上作威作福"
+    },
+    {
+      "file": "p45-f643231cba.webp",
+      "label": "像素举手",
+      "tags": [
+        "像素",
+        "举手",
+        "懵",
+        "投降"
+      ],
+      "emotion": "awkward",
+      "note": "懵了，举手投降"
+    },
+    {
+      "file": "p46-5e9ce0f054.webp",
+      "label": "这谁顶得住啊",
+      "tags": [
+        "这谁顶得住啊",
+        "好香",
+        "顶不住",
+        "心动"
+      ],
+      "emotion": "love",
+      "note": "对方太有魅力，自己顶不住"
+    },
+    {
+      "file": "p47-cc3fe9a7ae.webp",
+      "label": "贴脸闺蜜",
+      "tags": [
+        "贴贴",
+        "闺蜜",
+        "蹭蹭",
+        "亲密"
+      ],
+      "emotion": "love",
+      "note": "跟对方脸贴脸地撒娇"
+    },
+    {
+      "file": "p49-e0d17d84e5.webp",
+      "label": "裹成被子虫",
+      "tags": [
+        "裹被子",
+        "躺平",
+        "不想起",
+        "犯困",
+        "睡"
+      ],
+      "emotion": "sleepy",
+      "note": "赖床不想起、困得不行"
+    },
+    {
+      "file": "p51-bb0c782c21.webp",
+      "label": "被抱安心",
+      "tags": [
+        "被抱",
+        "安心",
+        "撒娇",
+        "靠"
+      ],
+      "emotion": "love",
+      "note": "被对方抱住，安心地撒娇"
+    },
+    {
+      "file": "p53-0f20aaa3a5.webp",
+      "label": "现在就配了你",
+      "tags": [
+        "现在就配了你",
+        "霸道",
+        "配对",
+        "起哄"
+      ],
+      "emotion": "hype",
+      "note": "上头了，当场要把两人凑一对"
+    },
+    {
+      "file": "p54-dcb1a3e08b.webp",
+      "label": "拍桌狂笑",
+      "tags": [
+        "拍桌",
+        "狂笑",
+        "笑死",
+        "按按钮"
+      ],
+      "emotion": "happy",
+      "note": "被逗到拍桌狂笑"
+    },
+    {
+      "file": "p55-fe849fc78a.jpg",
+      "label": "嚎啕大哭",
+      "tags": [
+        "大哭",
+        "嚎哭",
+        "难过",
+        "泪"
+      ],
+      "emotion": "sad",
+      "note": "真的难过，嚎啕大哭"
+    },
+    {
+      "file": "web-1789193544250-66685f6552.png",
+      "label": "b284e22577144f5daa67",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://p0.itc.cn/images01/20230702/b284e22577144f5daa67cc283fae3662.png"
+    },
+    {
+      "file": "web-1789196186311-34e5900f68.jpg",
+      "label": "4036cfdf7877d14d0e6c",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://i0.hdslb.com/bfs/article/4036cfdf7877d14d0e6ca33cfde1df28352074746.jpg"
+    },
+    {
+      "file": "web-1789196188394-e171664a59.jpg",
+      "label": "e171664a59730b9f28b2",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "http://i1.hdslb.com/bfs/archive/e171664a59730b9f28b27140571a715056e2f9fb.jpg"
+    },
+    {
+      "file": "web-1789196192171-57ff1ded4a.png",
+      "label": "b70f4553f68a44bb9284",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://p0.itc.cn/q_70/images03/20220830/b70f4553f68a44bb9284b7db43d24201.png"
+    },
+    {
+      "file": "web-1789196193275-4a802d4b65.jpg",
+      "label": "9lddQjsw bootZcT3cSr",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-bootZcT3cSr4-zk.jpg"
+    },
+    {
+      "file": "web-1789196194115-4aeacb0fe9.jpg",
+      "label": "9lddQjsw gd0kK10T1kS",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-gd0kK10T1kSgg-e6.jpg"
+    },
+    {
+      "file": "web-1789196195231-8381ab5828.jpg",
+      "label": "67b145e9b7102657.jpg",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://am.zdmimg.com/202502/16/67b145e9b7102657.jpg_e1080.jpg"
+    },
+    {
+      "file": "web-1789196196537-401d5c0329.jpg",
+      "label": "9lddQjsw 898xZeT3cSz",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-898xZeT3cSzk-zk.jpg"
+    },
+    {
+      "file": "web-1789196197916-4e7a4fe98a.jpg",
+      "label": "9lddQjsw ji1hK23T3cS",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-ji1hK23T3cSk0-mq.jpg"
+    },
+    {
+      "file": "web-1789196198792-2d4e85a813.jpg",
+      "label": "2d4e85a813807e5c4af9",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://i0.hdslb.com/bfs/archive/2d4e85a813807e5c4af9d1019268cce3ad4d4b63.jpg"
+    },
+    {
+      "file": "web-1789196199558-53a5976e04.webp",
+      "label": "d24225fdc27b776497fc",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://image.gcores.com/d24225fdc27b776497fc14e41ec9e230-1363-2048.jpg?x-oss-process=image/resize,limit_1,m_mfit,w_2000/quality,q_90/format,webp/bright,-8"
+    },
+    {
+      "file": "web-1789196200832-2cb73fb897.gif",
+      "label": "70a1b590c0a3b9e909a8",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://upload-bbs.miyoushe.com/upload/2023/06/17/175633142/70a1b590c0a3b9e909a8341500cfdc03_82534452861633340.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif"
+    },
+    {
+      "file": "web-1789196202890-c48218abd4.jpg",
+      "label": "9lddQjsw 6awzK1mT1kS",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-6awzK1mT1kSes-dp.jpg"
+    },
+    {
+      "file": "web-1789196204381-a7e82cfe34.jpg",
+      "label": "9lddQjsw jwuZeT3cSsc",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-jwuZeT3cSsc-o8.jpg"
+    },
+    {
+      "file": "web-1789196205860-10aa9c1d98.jpg",
+      "label": "9lddQjsw 9o6hK2gT3cS",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-9o6hK2gT3cSlv-sg.jpg"
+    },
+    {
+      "file": "web-1789196208972-a88597812a.gif",
+      "label": "b76c96f76ac2ad1f05fd",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://upload-bbs.miyoushe.com/upload/2023/06/17/175633142/b76c96f76ac2ad1f05fd2e09b6e9b6bd_321586246999452231.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif"
+    },
+    {
+      "file": "web-1789196211626-be3df5d6ce.jpg",
+      "label": "9lddQjsw gxo5KyT1kSc",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-gxo5KyT1kSc0-de.jpg"
+    },
+    {
+      "file": "web-1789196212651-50dd28e901.jpg",
+      "label": "9lddQjsw jrw1K26T3cS",
+      "tags": [
+        "杂鱼"
+      ],
+      "emotion": "neutral",
+      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-jrw1K26T3cSke-mw.jpg"
+    }
+  ]
+}
