@@ -1,18 +1,6 @@
 {
   "stickers": [
     {
-      "file": "p08-b45f01c38f.webp",
-      "label": "冷淡凝视",
-      "tags": [
-        "冷淡",
-        "平静",
-        "凝视",
-        "无语"
-      ],
-      "emotion": "neutral",
-      "note": "冷冷地看着对方，不想搭理"
-    },
-    {
       "file": "p18-2a1f0524b5.webp",
       "label": "嫌弃斜眼",
       "tags": [
@@ -23,6 +11,70 @@
       ],
       "emotion": "awkward",
       "note": "嫌弃地斜眼看对方"
+    },
+    {
+      "file": "p02-31120c65a0.webp",
+      "label": "快叫我主人",
+      "tags": [
+        "快叫我主人",
+        "傲娇",
+        "命令",
+        "得意",
+        "主人"
+      ],
+      "emotion": "tsundere",
+      "note": "得意地命令对方叫自己主人"
+    },
+    {
+      "file": "p08-b45f01c38f.webp",
+      "label": "冷淡凝视",
+      "tags": [
+        "冷淡",
+        "平静",
+        "凝视",
+        "无语",
+        "尴尬",
+        "汗",
+        "冷淡凝视"
+      ],
+      "emotion": "awkward",
+      "note": "冷冷地看着对方，不想搭理"
+    },
+    {
+      "file": "p12-f342f4307e.webp",
+      "label": "咬手指脸红",
+      "tags": [
+        "害羞",
+        "咬手指",
+        "紧张",
+        "脸红"
+      ],
+      "emotion": "tsundere",
+      "note": "被撩到，紧张害羞咬着手指"
+    },
+    {
+      "file": "p27-51c8a4b8a2.webp",
+      "label": "伸手递给你",
+      "tags": [
+        "递给你",
+        "给",
+        "收下",
+        "伸手"
+      ],
+      "emotion": "happy",
+      "note": "把什么东西递给对方、要对方收下"
+    },
+    {
+      "file": "p25-ce1400dc02.webp",
+      "label": "捧脸期待",
+      "tags": [
+        "捧脸",
+        "期待",
+        "求求",
+        "眼巴巴"
+      ],
+      "emotion": "love",
+      "note": "眼巴巴求对方答应自己"
     },
     {
       "file": "p48-463dcb243e.webp",
@@ -62,128 +114,6 @@
       "note": "真的被气到，头顶冒烟"
     },
     {
-      "file": "p27-51c8a4b8a2.webp",
-      "label": "伸手递给你",
-      "tags": [
-        "递给你",
-        "给",
-        "收下",
-        "伸手"
-      ],
-      "emotion": "happy",
-      "note": "把什么东西递给对方、要对方收下"
-    },
-    {
-      "file": "p31-2ebc0dcf77.webp",
-      "label": "别草我",
-      "tags": [
-        "别草我",
-        "求放过",
-        "大哭",
-        "救命"
-      ],
-      "emotion": "sad",
-      "note": "求对方放过自己，哭喊"
-    },
-    {
-      "file": "p32-0c0348017d.webp",
-      "label": "我只有两岁",
-      "tags": [
-        "我只有两岁",
-        "卖萌",
-        "装小",
-        "甩锅"
-      ],
-      "emotion": "awkward",
-      "note": "装小卖萌甩锅，装作不懂事"
-    },
-    {
-      "file": "p02-31120c65a0.webp",
-      "label": "快叫我主人",
-      "tags": [
-        "快叫我主人",
-        "傲娇",
-        "命令",
-        "得意",
-        "主人"
-      ],
-      "emotion": "tsundere",
-      "note": "得意地命令对方叫自己主人"
-    },
-    {
-      "file": "p04-95328b5dbd.jpg",
-      "label": "这样不太好吧",
-      "tags": [
-        "这样不太好吧",
-        "害羞",
-        "为难",
-        "推脱"
-      ],
-      "emotion": "awkward",
-      "note": "对方说过分的话，红着脸委婉拒绝"
-    },
-    {
-      "file": "p06-b7e0264872.webp",
-      "label": "拿锤子警告",
-      "tags": [
-        "锤你",
-        "敲打",
-        "威胁",
-        "警告",
-        "生气"
-      ],
-      "emotion": "angry",
-      "note": "假装要揍人、半威胁地提醒对方"
-    },
-    {
-      "file": "p12-f342f4307e.webp",
-      "label": "咬手指脸红",
-      "tags": [
-        "害羞",
-        "咬手指",
-        "紧张",
-        "脸红"
-      ],
-      "emotion": "tsundere",
-      "note": "被撩到，紧张害羞咬着手指"
-    },
-    {
-      "file": "p25-ce1400dc02.webp",
-      "label": "捧脸期待",
-      "tags": [
-        "捧脸",
-        "期待",
-        "求求",
-        "眼巴巴"
-      ],
-      "emotion": "love",
-      "note": "眼巴巴求对方答应自己"
-    },
-    {
-      "file": "p40-a7e98e548b.webp",
-      "label": "满足期待",
-      "tags": [
-        "满足",
-        "期待",
-        "乖巧",
-        "微笑"
-      ],
-      "emotion": "happy",
-      "note": "双手交握，满足地期待好事发生"
-    },
-    {
-      "file": "p42-aed9f3d991.jpg",
-      "label": "金发不爽",
-      "tags": [
-        "生气",
-        "不爽",
-        "瞪",
-        "怒"
-      ],
-      "emotion": "angry",
-      "note": "不爽地瞪着对方"
-    },
-    {
       "file": "p43-fcebeeec14.webp",
       "label": "我可以侵犯你吗",
       "tags": [
@@ -196,50 +126,15 @@
       "note": "直球骚话，大胆撩对方"
     },
     {
-      "file": "p50-45ee1467b9.webp",
-      "label": "精灵耳愣住",
+      "file": "qq商店-592a832097.png",
+      "label": "抱鲨鱼睡觉",
       "tags": [
-        "惊讶",
-        "懵",
-        "张嘴",
-        "愣住"
+        "困倦",
+        "卖萌",
+        "二次元"
       ],
-      "emotion": "shock",
-      "note": "听到意外的话当场愣住"
-    },
-    {
-      "file": "p52-a52e666c94.webp",
-      "label": "记小本本",
-      "tags": [
-        "记小本本",
-        "写下来",
-        "生气",
-        "咬牙"
-      ],
-      "emotion": "angry",
-      "note": "生气地说「我记下了」"
-    },
-    {
-      "file": "web-1789196191124-4355032a88.jpg",
-      "label": "9lddQjsw k5ltZcT3cSs",
-      "tags": [
-        "杂鱼"
-      ],
-      "emotion": "neutral",
-      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-k5ltZcT3cSsg-sg.jpg"
-    },
-    {
-      "file": "p01-78ffe099d3.webp",
-      "label": "太色情了",
-      "tags": [
-        "太色情了",
-        "害羞",
-        "脸红",
-        "无语",
-        "变态"
-      ],
-      "emotion": "awkward",
-      "note": "对方说了色情或过分的话，自己羞得不行"
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源商店"
     },
     {
       "file": "p03-7d9cc6b4cd.webp",
@@ -255,6 +150,66 @@
       "note": "没听懂、满脑子疑问时"
     },
     {
+      "file": "p06-b7e0264872.webp",
+      "label": "拿锤子警告",
+      "tags": [
+        "锤你",
+        "敲打",
+        "威胁",
+        "警告",
+        "生气"
+      ],
+      "emotion": "angry",
+      "note": "假装要揍人、半威胁地提醒对方"
+    },
+    {
+      "file": "p32-0c0348017d.webp",
+      "label": "我只有两岁",
+      "tags": [
+        "我只有两岁",
+        "卖萌",
+        "装小",
+        "甩锅"
+      ],
+      "emotion": "awkward",
+      "note": "装小卖萌甩锅，装作不懂事"
+    },
+    {
+      "file": "qq收到-2a6d9e8ba6.jpg",
+      "label": "害羞捂脸心动",
+      "tags": [
+        "脸红",
+        "害羞",
+        "心动"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "web-1789193544250-66685f6552.png",
+      "label": "杂鱼",
+      "tags": [
+        "杂鱼",
+        "傲娇",
+        "傲骄",
+        "嘴硬"
+      ],
+      "emotion": "tsundere",
+      "note": "https://p0.itc.cn/images01/20230702/b284e22577144f5daa67cc283fae3662.png"
+    },
+    {
+      "file": "p04-95328b5dbd.jpg",
+      "label": "这样不太好吧",
+      "tags": [
+        "这样不太好吧",
+        "害羞",
+        "为难",
+        "推脱"
+      ],
+      "emotion": "awkward",
+      "note": "对方说过分的话，红着脸委婉拒绝"
+    },
+    {
       "file": "p05-e5c73b1ebc.webp",
       "label": "震惊呆住",
       "tags": [
@@ -268,17 +223,110 @@
       "note": "被吓到、听到离谱消息时"
     },
     {
-      "file": "p07-4006398915.webp",
-      "label": "抱紧大哭",
+      "file": "p23-19076f32b6.webp",
+      "label": "脸红微笑",
       "tags": [
+        "脸红",
+        "微笑",
+        "心动",
+        "开心"
+      ],
+      "emotion": "happy",
+      "note": "被夸到害羞心动，红着脸笑"
+    },
+    {
+      "file": "p28-6bcf4dcfb3.webp",
+      "label": "猫耳温柔笑",
+      "tags": [
+        "微笑",
+        "温柔",
+        "满足",
+        "猫耳"
+      ],
+      "emotion": "happy",
+      "note": "温柔满足地笑看着对方"
+    },
+    {
+      "file": "p31-2ebc0dcf77.webp",
+      "label": "别草我",
+      "tags": [
+        "别草我",
+        "求放过",
         "大哭",
-        "委屈",
-        "抱紧",
-        "难过",
-        "哭"
+        "救命"
       ],
       "emotion": "sad",
-      "note": "受委屈被欺负，抱着东西大哭"
+      "note": "求对方放过自己，哭喊"
+    },
+    {
+      "file": "p40-a7e98e548b.webp",
+      "label": "满足期待",
+      "tags": [
+        "满足",
+        "期待",
+        "乖巧",
+        "微笑"
+      ],
+      "emotion": "happy",
+      "note": "双手交握，满足地期待好事发生"
+    },
+    {
+      "file": "p41-c08de1a151.webp",
+      "label": "偷看手机",
+      "tags": [
+        "偷看",
+        "吃瓜",
+        "看手机",
+        "暗中观察"
+      ],
+      "emotion": "awkward",
+      "note": "暗中观察、偷看对方动静"
+    },
+    {
+      "file": "p50-45ee1467b9.webp",
+      "label": "精灵耳愣住",
+      "tags": [
+        "惊讶",
+        "懵",
+        "张嘴",
+        "愣住"
+      ],
+      "emotion": "shock",
+      "note": "听到意外的话当场愣住"
+    },
+    {
+      "file": "qq商店-0b10acd309.png",
+      "label": "委屈流泪没招了",
+      "tags": [
+        "哭泣",
+        "无奈",
+        "卖萌"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收到-b0fd63acdd.jpg",
+      "label": "伸手求抱抱",
+      "tags": [
+        "二次元",
+        "撒娇",
+        "张开双臂"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "web-1789196186311-34e5900f68.jpg",
+      "label": "杂鱼",
+      "tags": [
+        "杂鱼",
+        "傲娇",
+        "傲骄",
+        "嘴硬"
+      ],
+      "emotion": "tsundere",
+      "note": "https://i0.hdslb.com/bfs/article/4036cfdf7877d14d0e6ca33cfde1df28352074746.jpg"
     },
     {
       "file": "p09-1e008207da.gif",
@@ -291,30 +339,6 @@
       ],
       "emotion": "awkward",
       "note": "对方说了很无语的话，静静看着他"
-    },
-    {
-      "file": "p10-404636992e.webp",
-      "label": "无语凝视·2",
-      "tags": [
-        "无语",
-        "呆滞",
-        "凝视",
-        "汗"
-      ],
-      "emotion": "awkward",
-      "note": "同上，无语到说不出话"
-    },
-    {
-      "file": "p11-18bd18efb4.webp",
-      "label": "乐乐躺平",
-      "tags": [
-        "乐乐",
-        "开心",
-        "傻乐",
-        "躺平"
-      ],
-      "emotion": "happy",
-      "note": "心情很好、傻乐、什么都不想管"
     },
     {
       "file": "p13-4b06043b21.webp",
@@ -354,18 +378,6 @@
       "note": "不太认同但勉强夸一句"
     },
     {
-      "file": "p17-51fde5cd58.webp",
-      "label": "啵啵亲亲",
-      "tags": [
-        "啵啵",
-        "亲亲",
-        "么么",
-        "亲一个"
-      ],
-      "emotion": "love",
-      "note": "凑上去亲对方一口"
-    },
-    {
       "file": "p19-05add972da.webp",
       "label": "认真记录",
       "tags": [
@@ -376,6 +388,322 @@
       ],
       "emotion": "think",
       "note": "认真记下对方说的话"
+    },
+    {
+      "file": "p26-8e3b9ff5ac.webp",
+      "label": "妈妈抱宝宝",
+      "tags": [
+        "醒啦宝宝",
+        "妈妈抱",
+        "哄人",
+        "疼人"
+      ],
+      "emotion": "love",
+      "note": "用哄小孩的口气疼对方"
+    },
+    {
+      "file": "p30-12943f683a.webp",
+      "label": "抱猫哭",
+      "tags": [
+        "抱猫",
+        "哭",
+        "委屈",
+        "猫"
+      ],
+      "emotion": "sad",
+      "note": "抱着猫一起哭，惨兮兮"
+    },
+    {
+      "file": "p35-b8eea4349d.gif",
+      "label": "歪嘴坏笑",
+      "tags": [
+        "得意",
+        "坏笑",
+        "歪嘴",
+        "嘿嘿"
+      ],
+      "emotion": "happy",
+      "note": "得意地坏笑、占到便宜了"
+    },
+    {
+      "file": "p42-aed9f3d991.jpg",
+      "label": "金发不爽",
+      "tags": [
+        "生气",
+        "不爽",
+        "瞪",
+        "怒"
+      ],
+      "emotion": "angry",
+      "note": "不爽地瞪着对方"
+    },
+    {
+      "file": "p45-f643231cba.webp",
+      "label": "像素举手",
+      "tags": [
+        "像素",
+        "举手",
+        "懵",
+        "投降"
+      ],
+      "emotion": "awkward",
+      "note": "懵了，举手投降"
+    },
+    {
+      "file": "p46-5e9ce0f054.webp",
+      "label": "这谁顶得住啊",
+      "tags": [
+        "这谁顶得住啊",
+        "好香",
+        "顶不住",
+        "心动"
+      ],
+      "emotion": "love",
+      "note": "对方太有魅力，自己顶不住"
+    },
+    {
+      "file": "p52-a52e666c94.webp",
+      "label": "记小本本",
+      "tags": [
+        "记小本本",
+        "写下来",
+        "生气",
+        "咬牙"
+      ],
+      "emotion": "angry",
+      "note": "生气地说「我记下了」"
+    },
+    {
+      "file": "p53-0f20aaa3a5.webp",
+      "label": "现在就配了你",
+      "tags": [
+        "现在就配了你",
+        "霸道",
+        "配对",
+        "起哄"
+      ],
+      "emotion": "hype",
+      "note": "上头了，当场要把两人凑一对"
+    },
+    {
+      "file": "p55-fe849fc78a.jpg",
+      "label": "嚎啕大哭",
+      "tags": [
+        "大哭",
+        "嚎哭",
+        "难过",
+        "泪"
+      ],
+      "emotion": "sad",
+      "note": "真的难过，嚎啕大哭"
+    },
+    {
+      "file": "qq收藏-e7bed94e56.jpg",
+      "label": "眼冒爱心捧脸",
+      "tags": [
+        "花痴",
+        "心动",
+        "二次元",
+        "捧脸"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-cf394d7734.jpg",
+      "label": "拔刀警告",
+      "tags": [
+        "生气",
+        "持剑",
+        "威胁"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-dece6c3775.jpg",
+      "label": "馋到流口水",
+      "tags": [
+        "3D卡通",
+        "流口水",
+        "眼巴巴"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-584c4b34d9.png",
+      "label": "生气鼓脸",
+      "tags": [
+        "猫耳",
+        "傲娇",
+        "可爱"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d770ae6216.jpg",
+      "label": "抱枕熟睡中",
+      "tags": [
+        "睡觉",
+        "可爱",
+        "Q版"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-8698d1eebd.png",
+      "label": "眯眼甜笑",
+      "tags": [
+        "治愈",
+        "开心",
+        "二次元"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq商店-90bf1e3ebe.png",
+      "label": "闭眼微笑卖萌",
+      "tags": [
+        "可爱",
+        "治愈",
+        "Q版"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收到-930af16b70.png",
+      "label": "委屈递纸条",
+      "tags": [
+        "Q版",
+        "害羞",
+        "紧张"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "web-1789196191124-4355032a88.jpg",
+      "label": "杂鱼",
+      "tags": [
+        "杂鱼",
+        "傲娇",
+        "傲骄",
+        "嘴硬"
+      ],
+      "emotion": "tsundere",
+      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-k5ltZcT3cSsg-sg.jpg"
+    },
+    {
+      "file": "web-1789196197916-4e7a4fe98a.jpg",
+      "label": "杂鱼",
+      "tags": [
+        "杂鱼",
+        "傲娇",
+        "傲骄",
+        "嘴硬"
+      ],
+      "emotion": "tsundere",
+      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-ji1hK23T3cSk0-mq.jpg"
+    },
+    {
+      "file": "web-1789196205860-10aa9c1d98.jpg",
+      "label": "杂鱼",
+      "tags": [
+        "杂鱼",
+        "傲娇",
+        "傲骄",
+        "嘴硬"
+      ],
+      "emotion": "tsundere",
+      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-9o6hK2gT3cSlv-sg.jpg"
+    },
+    {
+      "file": "web-1789196208972-a88597812a.gif",
+      "label": "杂鱼",
+      "tags": [
+        "杂鱼",
+        "傲娇",
+        "傲骄",
+        "嘴硬"
+      ],
+      "emotion": "tsundere",
+      "note": "https://upload-bbs.miyoushe.com/upload/2023/06/17/175633142/b76c96f76ac2ad1f05fd2e09b6e9b6bd_321586246999452231.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif"
+    },
+    {
+      "file": "web-1789267975502-bf68fbf197.png",
+      "label": "柚子厨",
+      "tags": [
+        "柚子厨"
+      ],
+      "emotion": "neutral",
+      "note": "https://img.166.net/reunionpub/3_20240110_18cf346b9d8267720.jpeg?imageView&tostatic=0&thumbnail=900y600"
+    },
+    {
+      "file": "p01-78ffe099d3.webp",
+      "label": "太色情了",
+      "tags": [
+        "太色情了",
+        "害羞",
+        "脸红",
+        "无语",
+        "变态"
+      ],
+      "emotion": "awkward",
+      "note": "对方说了色情或过分的话，自己羞得不行"
+    },
+    {
+      "file": "p07-4006398915.webp",
+      "label": "抱紧大哭",
+      "tags": [
+        "大哭",
+        "委屈",
+        "抱紧",
+        "难过",
+        "哭"
+      ],
+      "emotion": "sad",
+      "note": "受委屈被欺负，抱着东西大哭"
+    },
+    {
+      "file": "p10-404636992e.webp",
+      "label": "无语凝视·2",
+      "tags": [
+        "无语",
+        "呆滞",
+        "凝视",
+        "汗"
+      ],
+      "emotion": "awkward",
+      "note": "同上，无语到说不出话"
+    },
+    {
+      "file": "p11-18bd18efb4.webp",
+      "label": "乐乐躺平",
+      "tags": [
+        "乐乐",
+        "开心",
+        "傻乐",
+        "躺平"
+      ],
+      "emotion": "happy",
+      "note": "心情很好、傻乐、什么都不想管"
+    },
+    {
+      "file": "p17-51fde5cd58.webp",
+      "label": "啵啵亲亲",
+      "tags": [
+        "啵啵",
+        "亲亲",
+        "么么",
+        "亲一个"
+      ],
+      "emotion": "love",
+      "note": "凑上去亲对方一口"
     },
     {
       "file": "p21-48cf6a5fa1.webp",
@@ -402,52 +730,20 @@
       "note": "完全听不懂，满头问号"
     },
     {
-      "file": "p23-19076f32b6.webp",
-      "label": "脸红微笑",
-      "tags": [
-        "脸红",
-        "微笑",
-        "心动",
-        "开心"
-      ],
-      "emotion": "happy",
-      "note": "被夸到害羞心动，红着脸笑"
-    },
-    {
       "file": "p24-33f22e8b5f.webp",
       "label": "冷淡女仆",
       "tags": [
         "冷淡",
         "凝视",
         "无表情",
-        "女仆"
+        "女仆",
+        "无语",
+        "尴尬",
+        "汗",
+        "冷淡女仆"
       ],
-      "emotion": "neutral",
+      "emotion": "awkward",
       "note": "面无表情地盯着对方"
-    },
-    {
-      "file": "p26-8e3b9ff5ac.webp",
-      "label": "妈妈抱宝宝",
-      "tags": [
-        "醒啦宝宝",
-        "妈妈抱",
-        "哄人",
-        "疼人"
-      ],
-      "emotion": "love",
-      "note": "用哄小孩的口气疼对方"
-    },
-    {
-      "file": "p28-6bcf4dcfb3.webp",
-      "label": "猫耳温柔笑",
-      "tags": [
-        "微笑",
-        "温柔",
-        "满足",
-        "猫耳"
-      ],
-      "emotion": "happy",
-      "note": "温柔满足地笑看着对方"
     },
     {
       "file": "p29-863cc5e746.webp",
@@ -460,18 +756,6 @@
       ],
       "emotion": "sad",
       "note": "委屈巴巴趴在桌上要人哄"
-    },
-    {
-      "file": "p30-12943f683a.webp",
-      "label": "抱猫哭",
-      "tags": [
-        "抱猫",
-        "哭",
-        "委屈",
-        "猫"
-      ],
-      "emotion": "sad",
-      "note": "抱着猫一起哭，惨兮兮"
     },
     {
       "file": "p33-ad064c6bf7.webp",
@@ -498,26 +782,17 @@
       "note": "兴奋到跳起来欢呼"
     },
     {
-      "file": "p35-b8eea4349d.gif",
-      "label": "歪嘴坏笑",
-      "tags": [
-        "得意",
-        "坏笑",
-        "歪嘴",
-        "嘿嘿"
-      ],
-      "emotion": "happy",
-      "note": "得意地坏笑、占到便宜了"
-    },
-    {
       "file": "p36-2c1174cdd8.webp",
       "label": "绿发呆滞",
       "tags": [
         "呆滞",
         "无语",
-        "面无表情"
+        "面无表情",
+        "尴尬",
+        "汗",
+        "绿发呆滞"
       ],
-      "emotion": "neutral",
+      "emotion": "awkward",
       "note": "呆滞地看着，没什么反应"
     },
     {
@@ -558,18 +833,6 @@
       "note": "在吃东西、被吃的转移注意力"
     },
     {
-      "file": "p41-c08de1a151.webp",
-      "label": "偷看手机",
-      "tags": [
-        "偷看",
-        "吃瓜",
-        "看手机",
-        "暗中观察"
-      ],
-      "emotion": "awkward",
-      "note": "暗中观察、偷看对方动静"
-    },
-    {
       "file": "p44-a82dc42558.webp",
       "label": "骑在头上",
       "tags": [
@@ -580,30 +843,6 @@
       ],
       "emotion": "hype",
       "note": "得意地骑到对方头上作威作福"
-    },
-    {
-      "file": "p45-f643231cba.webp",
-      "label": "像素举手",
-      "tags": [
-        "像素",
-        "举手",
-        "懵",
-        "投降"
-      ],
-      "emotion": "awkward",
-      "note": "懵了，举手投降"
-    },
-    {
-      "file": "p46-5e9ce0f054.webp",
-      "label": "这谁顶得住啊",
-      "tags": [
-        "这谁顶得住啊",
-        "好香",
-        "顶不住",
-        "心动"
-      ],
-      "emotion": "love",
-      "note": "对方太有魅力，自己顶不住"
     },
     {
       "file": "p47-cc3fe9a7ae.webp",
@@ -643,18 +882,6 @@
       "note": "被对方抱住，安心地撒娇"
     },
     {
-      "file": "p53-0f20aaa3a5.webp",
-      "label": "现在就配了你",
-      "tags": [
-        "现在就配了你",
-        "霸道",
-        "配对",
-        "起哄"
-      ],
-      "emotion": "hype",
-      "note": "上头了，当场要把两人凑一对"
-    },
-    {
       "file": "p54-dcb1a3e08b.webp",
       "label": "拍桌狂笑",
       "tags": [
@@ -667,178 +894,5854 @@
       "note": "被逗到拍桌狂笑"
     },
     {
-      "file": "p55-fe849fc78a.jpg",
-      "label": "嚎啕大哭",
+      "file": "qq收到-1063501e6b.jpg",
+      "label": "震惊瞪大眼",
       "tags": [
-        "大哭",
-        "嚎哭",
-        "难过",
-        "泪"
+        "惊讶",
+        "呆住",
+        "瞪眼"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-9a22f8f78a.jpg",
+      "label": "呆滞震惊脸",
+      "tags": [
+        "瞪眼",
+        "懵逼",
+        "粉毛"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-0aaafd5bba.jpg",
+      "label": "猫耳少女呆滞",
+      "tags": [
+        "二次元",
+        "兽耳",
+        "发呆"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-39b34c22fd.png",
+      "label": "震惊流汗",
+      "tags": [
+        "惊讶",
+        "尴尬",
+        "流汗",
+        "呆住"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-d74f416c03.jpg",
+      "label": "崩溃大哭",
+      "tags": [
+        "哭泣",
+        "二次元",
+        "蓝发"
       ],
       "emotion": "sad",
-      "note": "真的难过，嚎啕大哭"
+      "note": "QQ本地表情导入 来源收藏"
     },
     {
-      "file": "web-1789193544250-66685f6552.png",
-      "label": "b284e22577144f5daa67",
+      "file": "qq收藏-dea38e3230.jpg",
+      "label": "委屈流泪撒娇",
       "tags": [
-        "杂鱼"
+        "哭泣",
+        "卖萌",
+        "二次元"
       ],
-      "emotion": "neutral",
-      "note": "https://p0.itc.cn/images01/20230702/b284e22577144f5daa67cc283fae3662.png"
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收藏"
     },
     {
-      "file": "web-1789196186311-34e5900f68.jpg",
-      "label": "4036cfdf7877d14d0e6c",
+      "file": "qq收到-9beb54c391.png",
+      "label": "收到·9beb54c391",
       "tags": [
-        "杂鱼"
+        "收到"
       ],
       "emotion": "neutral",
-      "note": "https://i0.hdslb.com/bfs/article/4036cfdf7877d14d0e6ca33cfde1df28352074746.jpg"
+      "note": "QQ本地表情导入 来源收到"
     },
     {
-      "file": "web-1789196188394-e171664a59.jpg",
-      "label": "e171664a59730b9f28b2",
+      "file": "qq收到-0f114afc9b.png",
+      "label": "收到·0f114afc9b",
       "tags": [
-        "杂鱼"
+        "收到"
       ],
       "emotion": "neutral",
-      "note": "http://i1.hdslb.com/bfs/archive/e171664a59730b9f28b27140571a715056e2f9fb.jpg"
+      "note": "QQ本地表情导入 来源收到"
     },
     {
-      "file": "web-1789196192171-57ff1ded4a.png",
-      "label": "b70f4553f68a44bb9284",
+      "file": "qq商店-7e989d788c.png",
+      "label": "干饭人刮碗",
       "tags": [
-        "杂鱼"
+        "可爱",
+        "吃货",
+        "满足",
+        "二次元"
       ],
-      "emotion": "neutral",
-      "note": "https://p0.itc.cn/q_70/images03/20220830/b70f4553f68a44bb9284b7db43d24201.png"
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源商店"
     },
     {
-      "file": "web-1789196193275-4a802d4b65.jpg",
-      "label": "9lddQjsw bootZcT3cSr",
+      "file": "qq收到-87529578ab.png",
+      "label": "害羞卖萌求抱抱",
       "tags": [
-        "杂鱼"
+        "可爱",
+        "撒娇",
+        "脸红",
+        "二次元"
       ],
-      "emotion": "neutral",
-      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-bootZcT3cSr4-zk.jpg"
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
     },
     {
-      "file": "web-1789196194115-4aeacb0fe9.jpg",
-      "label": "9lddQjsw gd0kK10T1kS",
+      "file": "qq收到-c6a7350374.png",
+      "label": "摸头安慰受",
       "tags": [
-        "杂鱼"
+        "百合",
+        "摸头",
+        "安慰",
+        "二次元"
       ],
-      "emotion": "neutral",
-      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-gd0kK10T1kSgg-e6.jpg"
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
     },
     {
-      "file": "web-1789196195231-8381ab5828.jpg",
-      "label": "67b145e9b7102657.jpg",
+      "file": "qq收到-c8d92ec0b5.png",
+      "label": "乖巧被摸头",
       "tags": [
-        "杂鱼"
+        "玩偶",
+        "摸头",
+        "治愈"
       ],
-      "emotion": "neutral",
-      "note": "https://am.zdmimg.com/202502/16/67b145e9b7102657.jpg_e1080.jpg"
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
     },
     {
-      "file": "web-1789196196537-401d5c0329.jpg",
-      "label": "9lddQjsw 898xZeT3cSz",
+      "file": "qq收藏-c98c560b48.jpg",
+      "label": "面无表情说骚话",
       "tags": [
-        "杂鱼"
+        "抽象",
+        "反差",
+        "梗图"
       ],
       "emotion": "neutral",
-      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-898xZeT3cSzk-zk.jpg"
+      "note": "QQ本地表情导入 来源收藏"
     },
     {
-      "file": "web-1789196197916-4e7a4fe98a.jpg",
-      "label": "9lddQjsw ji1hK23T3cS",
+      "file": "qq收到-87c1789881.jpg",
+      "label": "震撼美味",
       "tags": [
-        "杂鱼"
+        "爱莉希雅",
+        "抽象",
+        "震惊",
+        "美食"
       ],
-      "emotion": "neutral",
-      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-ji1hK23T3cSk0-mq.jpg"
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
     },
     {
-      "file": "web-1789196198792-2d4e85a813.jpg",
-      "label": "2d4e85a813807e5c4af9",
+      "file": "qq收到-970b31a3b9.png",
+      "label": "生气闭嘴警告",
       "tags": [
-        "杂鱼"
+        "愤怒",
+        "二次元",
+        "表情包",
+        "打胶"
       ],
-      "emotion": "neutral",
-      "note": "https://i0.hdslb.com/bfs/archive/2d4e85a813807e5c4af9d1019268cce3ad4d4b63.jpg"
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
     },
     {
-      "file": "web-1789196199558-53a5976e04.webp",
-      "label": "d24225fdc27b776497fc",
+      "file": "qq收到-6bd79ab063.jpg",
+      "label": "赛马娘呆滞",
       "tags": [
-        "杂鱼"
+        "赛马娘",
+        "面无表情",
+        "呆滞",
+        "二次元"
       ],
       "emotion": "neutral",
-      "note": "https://image.gcores.com/d24225fdc27b776497fc14e41ec9e230-1363-2048.jpg?x-oss-process=image/resize,limit_1,m_mfit,w_2000/quality,q_90/format,webp/bright,-8"
+      "note": "QQ本地表情导入 来源收到"
     },
     {
-      "file": "web-1789196200832-2cb73fb897.gif",
-      "label": "70a1b590c0a3b9e909a8",
+      "file": "qq收到-8247d7df30.jpg",
+      "label": "惊慌失措",
       "tags": [
-        "杂鱼"
+        "惊讶",
+        "紧张",
+        "流汗"
       ],
-      "emotion": "neutral",
-      "note": "https://upload-bbs.miyoushe.com/upload/2023/06/17/175633142/70a1b590c0a3b9e909a8341500cfdc03_82534452861633340.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif"
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
     },
     {
-      "file": "web-1789196202890-c48218abd4.jpg",
-      "label": "9lddQjsw 6awzK1mT1kS",
+      "file": "qq收藏-6cb7854614.jpg",
+      "label": "萌妹撒娇比心",
       "tags": [
-        "杂鱼"
+        "可爱",
+        "卖萌",
+        "撒娇",
+        "二次元"
       ],
-      "emotion": "neutral",
-      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-6awzK1mT1kSes-dp.jpg"
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
     },
     {
-      "file": "web-1789196204381-a7e82cfe34.jpg",
-      "label": "9lddQjsw jwuZeT3cSsc",
+      "file": "qq收藏-124b0ac1e6.jpg",
+      "label": "震惊吐槽",
       "tags": [
-        "杂鱼"
+        "无语",
+        "惊讶",
+        "吐槽"
       ],
-      "emotion": "neutral",
-      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-jwuZeT3cSsc-o8.jpg"
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收藏"
     },
     {
-      "file": "web-1789196205860-10aa9c1d98.jpg",
-      "label": "9lddQjsw 9o6hK2gT3cS",
+      "file": "qq收到-027403e6d3.png",
+      "label": "震惊疑惑发问",
       "tags": [
-        "杂鱼"
+        "二次元",
+        "懵逼",
+        "疑问"
       ],
-      "emotion": "neutral",
-      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-9o6hK2gT3cSlv-sg.jpg"
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
     },
     {
-      "file": "web-1789196208972-a88597812a.gif",
-      "label": "b76c96f76ac2ad1f05fd",
+      "file": "qq收到-81dae340cf.gif",
+      "label": "开心大笑",
       "tags": [
-        "杂鱼"
+        "猫耳",
+        "大笑",
+        "可爱"
       ],
-      "emotion": "neutral",
-      "note": "https://upload-bbs.miyoushe.com/upload/2023/06/17/175633142/b76c96f76ac2ad1f05fd2e09b6e9b6bd_321586246999452231.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif"
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
     },
     {
-      "file": "web-1789196211626-be3df5d6ce.jpg",
-      "label": "9lddQjsw gxo5KyT1kSc",
+      "file": "qq收到-bf6ef831d4.jpg",
+      "label": "淡定烤凤凰",
       "tags": [
-        "杂鱼"
+        "日常",
+        "面瘫",
+        "吃货"
       ],
       "emotion": "neutral",
-      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-gxo5KyT1kSc0-de.jpg"
+      "note": "QQ本地表情导入 来源收到"
     },
     {
-      "file": "web-1789196212651-50dd28e901.jpg",
-      "label": "9lddQjsw jrw1K26T3cS",
+      "file": "qq收藏-22a940a380.jpg",
+      "label": "花痴喊杂鱼",
       "tags": [
-        "杂鱼"
+        "二次元",
+        "病娇",
+        "花痴"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-4d3f1592de.png",
+      "label": "乖巧卖萌",
+      "tags": [
+        "可爱",
+        "微笑",
+        "二次元"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-63b04c161a.jpg",
+      "label": "大声喊我饿了",
+      "tags": [
+        "猫猫",
+        "干饭",
+        "复读机",
+        "可爱"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-878f4b54c2.jpg",
+      "label": "猫娘比心卖萌",
+      "tags": [
+        "猫耳",
+        "爱心",
+        "可爱",
+        "撒娇"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-a945a99cad.jpg",
+      "label": "红脸大胆表白",
+      "tags": [
+        "二次元",
+        "表白",
+        "害羞"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-02af661c88.png",
+      "label": "温柔微笑",
+      "tags": [
+        "爱莉希雅",
+        "粉毛",
+        "微笑"
       ],
       "emotion": "neutral",
-      "note": "https://img.nga.178.com/attachments/mon_202304/20/-9lddQjsw-jrw1K26T3cSke-mw.jpg"
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-3c0aa07d50.jpg",
+      "label": "傲娇控诉过分",
+      "tags": [
+        "二次元",
+        "生气",
+        "吐槽"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-d1a1bff80b.png",
+      "label": "猫耳比心卖萌",
+      "tags": [
+        "猫耳娘",
+        "比心",
+        "可爱"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c1b6a2d0d2.png",
+      "label": "满眼爱心",
+      "tags": [
+        "花痴",
+        "喜欢",
+        "心动"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-a737fc4f61.png",
+      "label": "收到·a737fc4f61",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-3ea1c0ef90.jpg",
+      "label": "暴怒咆哮",
+      "tags": [
+        "愤怒",
+        "龙",
+        "咆哮"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-868d0a6001.jpg",
+      "label": "呆萌吃西瓜",
+      "tags": [
+        "吃货",
+        "可爱",
+        "卖萌"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-620b157b80.png",
+      "label": "平静注视",
+      "tags": [
+        "动漫女孩",
+        "夜景",
+        "淡定"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-768f966fd1.jpg",
+      "label": "星星眼震惊",
+      "tags": [
+        "二次元",
+        "惊讶",
+        "期待",
+        "表情包"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-f7588dd120.jpg",
+      "label": "盖被睡觉觉",
+      "tags": [
+        "困倦",
+        "休息",
+        "二次元"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-b60e55aa35.png",
+      "label": "无语嫌弃脸",
+      "tags": [
+        "鄙视",
+        "无语",
+        "二次元",
+        "吐槽"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq商店-244bbef6c6.png",
+      "label": "持枪暴力劝起床",
+      "tags": [
+        "暴躁",
+        "起床气",
+        "硬核"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收到-3dfc04ae40.gif",
+      "label": "向日葵傻笑",
+      "tags": [
+        "植物大战僵尸",
+        "开心",
+        "魔性",
+        "傻乐"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq商店-1b5f4ca88b.png",
+      "label": "炸毛怒吼",
+      "tags": [
+        "生气",
+        "咆哮",
+        "猫耳"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收到-ce27658f99.jpg",
+      "label": "呆滞看薯片",
+      "tags": [
+        "二次元",
+        "发呆",
+        "零食"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-7503418647.png",
+      "label": "捂嘴犯困",
+      "tags": [
+        "打哈欠",
+        "困倦",
+        "萌系"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c11bb26325.jpg",
+      "label": "粉发甜心微笑",
+      "tags": [
+        "粉色头发",
+        "爱心眼",
+        "甜美",
+        "二次元"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-5b53ce99b4.png",
+      "label": "脸红傲娇挑衅",
+      "tags": [
+        "八重神子",
+        "嘲讽",
+        "害羞",
+        "原神"
+      ],
+      "emotion": "tsundere",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-e5cc5dba3c.jpg",
+      "label": "满头问号疑惑",
+      "tags": [
+        "萌系",
+        "疑惑",
+        "呆滞",
+        "二次元"
+      ],
+      "emotion": "think",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-da32b6213b.jpg",
+      "label": "收到·da32b6213b",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-19c85ced0b.jpg",
+      "label": "淡定喝旺仔",
+      "tags": [
+        "死鱼眼",
+        "面无表情",
+        "酷盖"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c3f21bd4fe.jpg",
+      "label": "吉吉挠头疑惑",
+      "tags": [
+        "二次元",
+        "表情包",
+        "疑惑",
+        "卖萌"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-ee32b621c0.jpg",
+      "label": "生气鼓腮帮",
+      "tags": [
+        "猫耳娘",
+        "傲娇",
+        "卖萌"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq商店-8b480b073f.png",
+      "label": "小红书见比耶",
+      "tags": [
+        "打卡",
+        "自拍",
+        "二次元"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收藏-83a6e9acb8.jpg",
+      "label": "绷带少女面无表情",
+      "tags": [
+        "二次元",
+        "丧系",
+        "绷带",
+        "面无表情"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-aa0cc76b19.jpg",
+      "label": "被窝渴望爱情",
+      "tags": [
+        "二次元",
+        "单身狗",
+        "求偶",
+        "可爱"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-509a7ff7ca.jpg",
+      "label": "暴躁老哥发怒",
+      "tags": [
+        "生气",
+        "无语",
+        "威胁",
+        "表情包"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-14a122fbd3.jpg",
+      "label": "举牌纯馋人",
+      "tags": [
+        "新海天",
+        "举牌",
+        "搞笑"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-2714f5a383.jpg",
+      "label": "兴奋大喊我的天",
+      "tags": [
+        "新海诚",
+        "白发",
+        "呐喊",
+        "激动"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-8cfc9ce131.jpg",
+      "label": "被迫营业微笑",
+      "tags": [
+        "假笑",
+        "无语",
+        "捏脸"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-7b6b81cb6a.jpg",
+      "label": "困倦流口水",
+      "tags": [
+        "睡眼惺忪",
+        "呆萌",
+        "哈欠"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-29b717c955.jpg",
+      "label": "收到·29b717c955",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-98123b06a8.jpg",
+      "label": "粉色头发动漫角色被棕色物体贴近，",
+      "tags": [
+        "动漫角色",
+        "惊讶",
+        "害羞",
+        "互动"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-acc90e0407.jpg",
+      "label": "强颜欢笑流汗",
+      "tags": [
+        "尴尬",
+        "假笑",
+        "流汗"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-a21f0be246.png",
+      "label": "开心看手机",
+      "tags": [
+        "粉毛",
+        "微笑",
+        "玩手机"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-0bb7378d2e.jpg",
+      "label": "无语呆滞震惊",
+      "tags": [
+        "崩坏3",
+        "菲谢尔",
+        "无语",
+        "震惊"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-2f7c6afa7b.png",
+      "label": "呆萌张嘴笑",
+      "tags": [
+        "可爱",
+        "开心",
+        "二次元"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-9964261d48.jpg",
+      "label": "红温咬牙生气",
+      "tags": [
+        "愤怒",
+        "红温",
+        "咬牙切齿"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-06540103b3.png",
+      "label": "托腮思考中",
+      "tags": [
+        "思考",
+        "呆萌",
+        "疑惑"
+      ],
+      "emotion": "think",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-9149d76c04.png",
+      "label": "兴奋检查身材",
+      "tags": [
+        "二次元",
+        "黑白漫",
+        "搞怪",
+        "互动"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-12d6d3ac31.jpg",
+      "label": "无语流汗",
+      "tags": [
+        "猫耳娘",
+        "尴尬",
+        "闭眼",
+        "黑线"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-84c64357c8.png",
+      "label": "爱心眼装纯",
+      "tags": [
+        "二次元",
+        "病娇",
+        "反差"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-c0c8a1e27a.jpg",
+      "label": "熬夜卖惨",
+      "tags": [
+        "黑眼圈",
+        "卑微",
+        "二次元"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-8c7b95c5e6.png",
+      "label": "眼冒金星举包子",
+      "tags": [
+        "可爱",
+        "期待",
+        "吃货"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-91489279f7.jpg",
+      "label": "单手托腮思考",
+      "tags": [
+        "发呆",
+        "学习",
+        "托腮",
+        "日常"
+      ],
+      "emotion": "think",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-8b91ca9d26.jpg",
+      "label": "面无表情凝视",
+      "tags": [
+        "死鱼眼",
+        "无语",
+        "呆滞"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d6aeee259b.jpg",
+      "label": "收到·d6aeee259b",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-741f68205f.png",
+      "label": "奶凶放狠话",
+      "tags": [
+        "可爱",
+        "威胁",
+        "二次元"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-9227b52591.jpg",
+      "label": "傲娇被拖走",
+      "tags": [
+        "猫耳",
+        "害羞",
+        "牵手"
+      ],
+      "emotion": "tsundere",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-69565f9483.jpg",
+      "label": "呆萌自我介绍",
+      "tags": [
+        "二次元",
+        "看板娘",
+        "可爱"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq商店-b806669e82.png",
+      "label": "开心吃瓜",
+      "tags": [
+        "二次元",
+        "兽耳娘",
+        "吃西瓜"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收到-a46a845153.jpg",
+      "label": "面无表情抱枕",
+      "tags": [
+        "呆滞",
+        "Q版",
+        "无语"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-792d6dc929.jpg",
+      "label": "开心举手欢呼",
+      "tags": [
+        "可爱",
+        "欢呼",
+        "二次元"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-11edf44694.jpg",
+      "label": "被迫吃寿司堵嘴",
+      "tags": [
+        "尴尬流泪",
+        "强行喂食",
+        "闭嘴吧",
+        "二次元"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-3f23915987.jpg",
+      "label": "被捏脸害羞了",
+      "tags": [
+        "萌妹",
+        "撒娇",
+        "捏脸",
+        "害羞"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-943658c231.jpg",
+      "label": "瞪眼呆滞震惊",
+      "tags": [
+        "二次元",
+        "震惊",
+        "瞪眼",
+        "呆滞"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-735220a05f.jpg",
+      "label": "无语死鱼眼",
+      "tags": [
+        "呆滞",
+        "无语",
+        "冷淡"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-72e3074a77.jpg",
+      "label": "星星眼卖萌",
+      "tags": [
+        "可爱",
+        "期待",
+        "治愈"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-5830dff0dc.jpg",
+      "label": "呆萌开心扭动",
+      "tags": [
+        "可爱",
+        "魔性",
+        "治愈"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-b2951a582d.png",
+      "label": "开心大笑",
+      "tags": [
+        "快乐",
+        "大笑",
+        "可爱"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-a717d37b1b.jpg",
+      "label": "崩溃流泪",
+      "tags": [
+        "哭泣",
+        "悲伤",
+        "简笔画"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-a63a42f554.png",
+      "label": "举牌深情告白",
+      "tags": [
+        "二次元",
+        "表白",
+        "可爱",
+        "黑丝"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-e0d3052e1b.jpg",
+      "label": "傲娇吐槽笨蛋",
+      "tags": [
+        "傲娇",
+        "嫌弃",
+        "二次元"
+      ],
+      "emotion": "tsundere",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-611e111265.jpg",
+      "label": "粉毛微笑比心",
+      "tags": [
+        "二次元",
+        "可爱",
+        "比心"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-89e4fd50b2.png",
+      "label": "呆萌张嘴笑",
+      "tags": [
+        "二次元",
+        "开心",
+        "卖萌",
+        "表情包"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-73879b31e8.png",
+      "label": "魔性假笑",
+      "tags": [
+        "抽象",
+        "嘲讽",
+        "大笑"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-4809995f4a.jpg",
+      "label": "傲娇嘲讽小处男",
+      "tags": [
+        "二次元",
+        "傲娇",
+        "嘲讽",
+        "可爱"
+      ],
+      "emotion": "tsundere",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-34435ea85e.png",
+      "label": "无语被拎起",
+      "tags": [
+        "二次元",
+        "无语",
+        "搞笑",
+        "挂饰"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d7f06967a3.jpg",
+      "label": "趴地打哈欠",
+      "tags": [
+        "困倦",
+        "卖萌",
+        "Q版"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c6d1536f7e.jpg",
+      "label": "委屈含泪",
+      "tags": [
+        "初音未来",
+        "卖萌",
+        "可怜"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-83996af947.png",
+      "label": "激情喊话",
+      "tags": [
+        "二次元",
+        "表情包",
+        "搞怪",
+        "兴奋"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-43a4832e10.jpg",
+      "label": "睡眼惺忪刚醒",
+      "tags": [
+        "困倦",
+        "起床气",
+        "呆萌"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-0633cf18af.png",
+      "label": "嘲讽式假笑",
+      "tags": [
+        "阴阳怪气",
+        "假笑",
+        "搞怪"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-35cadcd1a0.png",
+      "label": "傲娇红脸",
+      "tags": [
+        "二次元",
+        "害羞",
+        "傲娇"
+      ],
+      "emotion": "tsundere",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-ae8d1ebbc2.png",
+      "label": "可爱求看本子",
+      "tags": [
+        "二次元",
+        "卖萌",
+        "玩梗"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-32b07740c1.jpg",
+      "label": "初音卖萌",
+      "tags": [
+        "二次元",
+        "可爱",
+        "开心"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-61edb776f7.jpg",
+      "label": "眯眼咧嘴大笑",
+      "tags": [
+        "开心",
+        "傻笑",
+        "治愈"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-8fd5600a6e.jpg",
+      "label": "震惊呆滞",
+      "tags": [
+        "漫画",
+        "呆滞",
+        "震惊",
+        "表情包"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-6d02b31c8f.jpg",
+      "label": "收到·6d02b31c8f",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-620a3954a5.jpg",
+      "label": "紧张擦汗",
+      "tags": [
+        "尴尬",
+        "流汗",
+        "心虚"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-4094f20d8b.jpg",
+      "label": "开心举双手",
+      "tags": [
+        "可爱",
+        "举手",
+        "卖萌"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-587fd4619d.png",
+      "label": "温柔闭眼微笑",
+      "tags": [
+        "治愈",
+        "微笑",
+        "动漫"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-434fabeb50.jpg",
+      "label": "猥琐憋笑",
+      "tags": [
+        "滑稽",
+        "沙雕",
+        "偷乐"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-7ea4dd7090.jpg",
+      "label": "上课困倦打盹",
+      "tags": [
+        "睡觉",
+        "课堂",
+        "疲惫"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-4b225b7cef.jpg",
+      "label": "傲娇护食不给",
+      "tags": [
+        "二次元",
+        "傲娇",
+        "害羞",
+        "拒绝"
+      ],
+      "emotion": "tsundere",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-1f8fbea08d.png",
+      "label": "满脸问号疑惑",
+      "tags": [
+        "疑惑",
+        "懵逼",
+        "二次元"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c54cb99215.jpg",
+      "label": "面无表情凝视",
+      "tags": [
+        "呆滞",
+        "无语",
+        "凝视"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-07bd970751.jpg",
+      "label": "樱花树下开心",
+      "tags": [
+        "金发双马尾",
+        "水手服",
+        "可爱",
+        "微笑"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-403a460b95.jpg",
+      "label": "震惊流汗张嘴",
+      "tags": [
+        "震惊",
+        "流汗",
+        "呆滞"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-9e28a5070e.png",
+      "label": "乖巧微笑",
+      "tags": [
+        "可爱",
+        "治愈",
+        "Q版"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-3c1086b26e.jpg",
+      "label": "生无可恋脸",
+      "tags": [
+        "无语",
+        "冷漠",
+        "玩偶"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-f646e52309.jpg",
+      "label": "爱心眼凝视",
+      "tags": [
+        "花痴",
+        "喜欢",
+        "二次元"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-7e56422b8e.png",
+      "label": "开心点赞",
+      "tags": [
+        "点赞",
+        "好评",
+        "可爱"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-d73d73a7b7.png",
+      "label": "红温生气中",
+      "tags": [
+        "生气",
+        "愤怒",
+        "二次元"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-bcc1fdc24d.jpg",
+      "label": "再bb就亲你",
+      "tags": [
+        "百合",
+        "威胁",
+        "亲吻"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-3201e2354a.jpg",
+      "label": "收到·3201e2354a",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-a53aa773a1.jpg",
+      "label": "呆滞放空",
+      "tags": [
+        "发呆",
+        "懵圈",
+        "眼神空洞"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-82bad6d839.jpg",
+      "label": "星星眼夸强",
+      "tags": [
+        "崇拜",
+        "震惊",
+        "点赞"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-bddd2ac13b.png",
+      "label": "疯狂敲头",
+      "tags": [
+        "猫耳",
+        "整活",
+        "敲头",
+        "开心"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-6e79632585.png",
+      "label": "无语下头",
+      "tags": [
+        "二次元",
+        "嫌弃",
+        "无语"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-838cebc066.png",
+      "label": "满头问号疑惑",
+      "tags": [
+        "永雏塔菲",
+        "疑惑",
+        "思考",
+        "懵逼"
+      ],
+      "emotion": "think",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-b9a03d0f9a.jpg",
+      "label": "困倦探头",
+      "tags": [
+        "二次元",
+        "卖萌",
+        "打瞌睡"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-304c561b91.png",
+      "label": "收到·304c561b91",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-aeba7e5e6e.png",
+      "label": "面无表情呆滞",
+      "tags": [
+        "呆滞",
+        "无语",
+        "平静",
+        "二次元"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-05ef5038c3.png",
+      "label": "傲娇否认三连",
+      "tags": [
+        "傲娇",
+        "害羞",
+        "漫画"
+      ],
+      "emotion": "tsundere",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-86e270fcfc.jpg",
+      "label": "开心喝岩浆",
+      "tags": [
+        "喝茶",
+        "卖萌",
+        "反差",
+        "治愈"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-541450e6ee.jpg",
+      "label": "竖耳暗中观察",
+      "tags": [
+        "猫耳",
+        "听八卦",
+        "无语",
+        "呆萌"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-bc904e0b9e.jpg",
+      "label": "鼓腮生气",
+      "tags": [
+        "生气",
+        "傲娇",
+        "可爱"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-264bc58912.jpg",
+      "label": "收到·264bc58912",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-87a0c35015.jpg",
+      "label": "无语凝视",
+      "tags": [
+        "盯",
+        "猫耳",
+        "冷淡"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-ab6b0ad8dd.jpg",
+      "label": "开心眯眼笑",
+      "tags": [
+        "可爱",
+        "治愈",
+        "傻乐"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-0a1743197f.png",
+      "label": "天使微笑",
+      "tags": [
+        "呆萌",
+        "治愈",
+        "乖巧"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-52b40d4d13.gif",
+      "label": "无语看戏",
+      "tags": [
+        "吃瓜",
+        "淡定",
+        "斜眼",
+        "吐槽"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-12829357a7.png",
+      "label": "开心看手机",
+      "tags": [
+        "二次元",
+        "萌系",
+        "快乐",
+        "日常"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-2d9447fb78.jpg",
+      "label": "菲八端番茄",
+      "tags": [
+        "可爱",
+        "二次元",
+        "卖萌",
+        "表情包"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-a6750404c2.jpg",
+      "label": "无语死鱼眼",
+      "tags": [
+        "呆滞",
+        "淡定",
+        "黑白漫画"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d6dd344894.png",
+      "label": "委屈含泪",
+      "tags": [
+        "哭泣",
+        "难过",
+        "卖萌"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-5a48edd5e5.png",
+      "label": "面无表情摊手",
+      "tags": [
+        "无语",
+        "淡定",
+        "摊手"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-637d41c373.jpg",
+      "label": "收到·637d41c373",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d71efded89.jpg",
+      "label": "呆滞放空脸",
+      "tags": [
+        "面无表情",
+        "眼神空洞",
+        "二次元"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq商店-36192fa54f.png",
+      "label": "粉毛卖萌吐舌",
+      "tags": [
+        "可爱",
+        "开心",
+        "二次元"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收藏-b65832328d.jpg",
+      "label": "自闭委屈",
+      "tags": [
+        "emo",
+        "自闭",
+        "可怜"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-d0601f2103.jpg",
+      "label": "亚托莉微笑",
+      "tags": [
+        "亚托莉",
+        "微笑",
+        "治愈",
+        "可爱"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-edbbf0143a.jpg",
+      "label": "熟睡被骚扰",
+      "tags": [
+        "睡觉",
+        "二次元",
+        "恶搞",
+        "群友"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-3443eb2a98.jpg",
+      "label": "托腮疑惑发问",
+      "tags": [
+        "思考",
+        "疑问",
+        "卖萌",
+        "原神"
+      ],
+      "emotion": "think",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-5a9f5ddb7d.png",
+      "label": "尴尬流汗假笑",
+      "tags": [
+        "流汗",
+        "强颜欢笑",
+        "无语"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-825b22b863.jpg",
+      "label": "震惊瞪眼张嘴",
+      "tags": [
+        "兽耳娘",
+        "惊讶",
+        "呆滞"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-98185a35c2.jpg",
+      "label": "趴着打哈欠",
+      "tags": [
+        "困倦",
+        "卖萌",
+        "哈欠"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-af83f1d5c0.png",
+      "label": "呆萌傻乐",
+      "tags": [
+        "初音未来",
+        "开心",
+        "卖萌"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-8c6bb119ed.png",
+      "label": "毫无世俗欲望",
+      "tags": [
+        "性冷淡",
+        "面无表情",
+        "二次元"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-7ab9cf3d10.jpg",
+      "label": "震惊张嘴",
+      "tags": [
+        "千早爱音",
+        "惊讶",
+        "呆滞"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-dcb0413639.jpg",
+      "label": "收到·dcb0413639",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-1359a424a5.jpg",
+      "label": "震惊张嘴流汗",
+      "tags": [
+        "震惊",
+        "流汗",
+        "表情包"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-9e6369e5a4.jpg",
+      "label": "委屈流泪",
+      "tags": [
+        "哭泣",
+        "难过",
+        "可怜"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-072e338082.jpg",
+      "label": "呆滞凝视",
+      "tags": [
+        "魔性",
+        "发呆",
+        "植物大战僵尸"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-17115c389b.jpg",
+      "label": "傲娇撇嘴",
+      "tags": [
+        "粉毛",
+        "嫌弃",
+        "可爱"
+      ],
+      "emotion": "tsundere",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-8cf72c8c78.png",
+      "label": "委屈认错",
+      "tags": [
+        "二次元",
+        "兽耳",
+        "流泪",
+        "求饶"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-0b7bb660d0.jpg",
+      "label": "托腮疑惑发问",
+      "tags": [
+        "思考",
+        "疑惑",
+        "二次元"
+      ],
+      "emotion": "think",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-ded814d889.jpg",
+      "label": "求贴贴举牌",
+      "tags": [
+        "二次元",
+        "可爱",
+        "撒娇",
+        "举牌"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-c00ae5ae07.jpg",
+      "label": "嫌弃流汗无语",
+      "tags": [
+        "黑白漫画",
+        "嫌弃",
+        "无语",
+        "流汗"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-7dbefb4269.jpg",
+      "label": "委屈巴巴",
+      "tags": [
+        "哭泣",
+        "可怜",
+        "卖萌"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-359e2d54ba.png",
+      "label": "暴躁捂嘴警告",
+      "tags": [
+        "生气",
+        "二次元",
+        "表情包",
+        "警告"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c76787f55f.jpg",
+      "label": "流泪要钱",
+      "tags": [
+        "哭哭",
+        "退钱",
+        "委屈"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-21fec47b73.jpg",
+      "label": "吃笨蛋噎住",
+      "tags": [
+        "呆滞",
+        "无语",
+        "嘲讽",
+        "表情包"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-06ec8cf815.jpg",
+      "label": "害羞捧脸",
+      "tags": [
+        "可爱",
+        "粉毛",
+        "期待"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-9db8ba8035.jpg",
+      "label": "呆滞吐舌发癫",
+      "tags": [
+        "发疯",
+        "搞怪",
+        "简笔画"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-d407b15098.jpg",
+      "label": "开心摸头杀",
+      "tags": [
+        "二次元",
+        "可爱",
+        "互动"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-3f684a7ff9.jpg",
+      "label": "眯眼开心笑",
+      "tags": [
+        "微笑",
+        "可爱",
+        "治愈"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-17ccf98b5f.png",
+      "label": "嫌弃流汗无语",
+      "tags": [
+        "黑白漫画",
+        "嫌弃",
+        "流汗",
+        "无语"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-a1e65461e9.jpg",
+      "label": "委屈巴巴",
+      "tags": [
+        "Q版",
+        "可怜",
+        "呆萌"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-df8c532ab7.jpg",
+      "label": "累瘫吐舌装死",
+      "tags": [
+        "躺平",
+        "没电",
+        "可爱"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-64876bf1e2.png",
+      "label": "萌妹挑逗",
+      "tags": [
+        "二次元",
+        "卖萌",
+        "挑逗",
+        "可爱"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-3593baf31d.jpg",
+      "label": "银发呆萌凝视",
+      "tags": [
+        "二次元",
+        "银发",
+        "呆萌",
+        "凝视"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-98c0798f71.jpg",
+      "label": "震惊质问",
+      "tags": [
+        "二次元",
+        "惊讶",
+        "吐槽"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-506e1b357e.jpg",
+      "label": "眼镜反光指人",
+      "tags": [
+        "期待",
+        "搞怪",
+        "猫耳娘"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-72ddc1a60b.png",
+      "label": "呆萌歪头看",
+      "tags": [
+        "二次元",
+        "可爱",
+        "发呆"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-349a06dd09.png",
+      "label": "瞳孔地震流汗",
+      "tags": [
+        "震惊",
+        "晕眩",
+        "流汗",
+        "二次元"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-924ef94fa5.jpg",
+      "label": "困倦呆萌",
+      "tags": [
+        "半睁眼",
+        "无精打采",
+        "发呆"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-1088063743.jpg",
+      "label": "乖巧卖萌脸",
+      "tags": [
+        "可爱",
+        "卖萌",
+        "乖巧"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-867ef36321.jpg",
+      "label": "被戳头炸毛",
+      "tags": [
+        "生气",
+        "猫耳",
+        "互动",
+        "可爱"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-a100ea9d4e.png",
+      "label": "开心大笑",
+      "tags": [
+        "二次元",
+        "治愈",
+        "快乐"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-3b80b9d9cc.png",
+      "label": "可爱比心卖萌",
+      "tags": [
+        "二次元",
+        "猫耳",
+        "比心",
+        "撒娇"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-8391fcb887.jpg",
+      "label": "面无表情",
+      "tags": [
+        "呆滞",
+        "无语",
+        "平静"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq商店-f29d095de0.png",
+      "label": "疯狂摇尾巴",
+      "tags": [
+        "兴奋",
+        "卖萌",
+        "动作"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收到-40c0976b8c.png",
+      "label": "震惊抱头",
+      "tags": [
+        "悲伤蛙",
+        "震惊",
+        "抱头",
+        "表情包"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-dc8b99e918.jpg",
+      "label": "呆萌流口水",
+      "tags": [
+        "粉毛兽耳",
+        "发呆",
+        "可爱"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-ac70a5e6bc.jpg",
+      "label": "奶凶哈气",
+      "tags": [
+        "生气",
+        "卖萌",
+        "咆哮"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-406874eace.jpg",
+      "label": "开心挥手",
+      "tags": [
+        "二次元",
+        "可爱",
+        "打招呼"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-cd7c5009e0.jpg",
+      "label": "开心大笑",
+      "tags": [
+        "波奇酱",
+        "狂喜",
+        "毛绒玩具"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-94287a29d5.jpg",
+      "label": "粉发萌妹背影",
+      "tags": [
+        "可爱",
+        "二次元",
+        "圣诞风"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c76e33b8fb.jpg",
+      "label": "呆滞看手机",
+      "tags": [
+        "粉毛",
+        "玩手机",
+        "发呆",
+        "爱莉希雅"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-4d3f7014bb.jpg",
+      "label": "俏皮吐舌比一",
+      "tags": [
+        "卖萌",
+        "调皮",
+        "二次元"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-bc6bfaac59.jpg",
+      "label": "淡定无语脸",
+      "tags": [
+        "死鱼眼",
+        "面无表情",
+        "淡定"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-9931b0ce65.png",
+      "label": "委屈流泪",
+      "tags": [
+        "哭泣",
+        "难过",
+        "二次元"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-9e4736c33b.jpg",
+      "label": "开心扭扭",
+      "tags": [
+        "可爱",
+        "跳舞",
+        "二次元"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-6b2cd6f3cc.png",
+      "label": "花痴吐槽男",
+      "tags": [
+        "二次元",
+        "花痴",
+        "吐槽",
+        "表情包"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-1e32fe3ec5.png",
+      "label": "开心指人",
+      "tags": [
+        "赛诺",
+        "大笑",
+        "指你"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-3ee4b28dba.jpg",
+      "label": "捂嘴偷笑",
+      "tags": [
+        "开心",
+        "害羞",
+        "偷笑"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-96996fbadc.jpg",
+      "label": "收到·96996fbadc",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-bb0640ffe4.jpg",
+      "label": "收到·bb0640ffe4",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-54228753b6.png",
+      "label": "自信竖大拇指",
+      "tags": [
+        "宝可梦",
+        "点赞",
+        "自信"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-abb9fc53f2.jpg",
+      "label": "含泪抱猫",
+      "tags": [
+        "治愈",
+        "吸猫",
+        "感动"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-0ac9afa3aa.jpg",
+      "label": "兴奋吐舌",
+      "tags": [
+        "兴奋",
+        "搞怪",
+        "吐舌头"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-6886b6296b.jpg",
+      "label": "呆萌猫耳娘",
+      "tags": [
+        "猫耳",
+        "发呆",
+        "可爱"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-6b6d9d6d58.png",
+      "label": "深情凝视",
+      "tags": [
+        "二次元",
+        "眼神",
+        "表白"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-7f149b37ad.png",
+      "label": "害羞表白",
+      "tags": [
+        "二次元",
+        "老婆",
+        "卖萌"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-3f164b42f1.jpg",
+      "label": "面无表情呆滞",
+      "tags": [
+        "发呆",
+        "无语",
+        "死鱼眼"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq商店-970ccc740d.png",
+      "label": "Q版开心卖萌",
+      "tags": [
+        "二次元",
+        "可爱",
+        "治愈",
+        "表情包"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收到-5cf6b9dbd6.jpg",
+      "label": "胖猫得意脸",
+      "tags": [
+        "汤姆猫",
+        "发福",
+        "自信"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-024f5b6261.png",
+      "label": "被戳头炸毛",
+      "tags": [
+        "生气",
+        "猫耳",
+        "戳头",
+        "可爱"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-0c808fcca1.jpg",
+      "label": "委屈巴巴躲被窝",
+      "tags": [
+        "emo",
+        "可怜",
+        "躲藏"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-1e6c8189cd.jpg",
+      "label": "元气呐喊比耶",
+      "tags": [
+        "金发",
+        "活力",
+        "手势",
+        "二次元"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq商店-76cf7c5fb0.png",
+      "label": "困倦打哈欠",
+      "tags": [
+        "哈欠",
+        "困了",
+        "卖萌"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收藏-6d7765bf55.jpg",
+      "label": "震惊流泪小杂鱼",
+      "tags": [
+        "兽耳娘",
+        "震惊",
+        "流泪",
+        "二次元"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-9011fcfef2.jpg",
+      "label": "圆滚滚大眼睛",
+      "tags": [
+        "可爱",
+        "卖萌",
+        "猫咪"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-031e6888e4.jpg",
+      "label": "开心躺纸堆",
+      "tags": [
+        "爱莉希雅",
+        "可爱",
+        "玩闹"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-5ef6362022.jpg",
+      "label": "抱猪傻笑",
+      "tags": [
+        "二次元",
+        "开心",
+        "可爱"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-d8f7d0288d.jpg",
+      "label": "举牌冒个泡",
+      "tags": [
+        "二次元",
+        "生气",
+        "举牌",
+        "气泡"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-0f0c606cda.png",
+      "label": "淡定抱臂",
+      "tags": [
+        "抱臂",
+        "淡定",
+        "微笑"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-db8ccd61e0.jpg",
+      "label": "趴桌睡觉晚安",
+      "tags": [
+        "困倦",
+        "休息",
+        "二次元"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-cb48092639.png",
+      "label": "开心唱歌",
+      "tags": [
+        "可爱",
+        "猫咪",
+        "卖萌"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-5557c7cc9c.jpg",
+      "label": "兽耳娘兴奋跳舞",
+      "tags": [
+        "跳舞",
+        "兴奋",
+        "兽耳娘"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-5e5c5e0974.png",
+      "label": "粉发比心卖萌",
+      "tags": [
+        "二次元",
+        "比心",
+        "可爱",
+        "粉色"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-21cd2bceab.jpg",
+      "label": "呆萌面无表情",
+      "tags": [
+        "二次元",
+        "可爱",
+        "发呆"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-a8c274a629.jpg",
+      "label": "收到·a8c274a629",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-ca36335449.jpg",
+      "label": "愤怒咆哮",
+      "tags": [
+        "生气",
+        "呐喊",
+        "激动"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-98064bbf00.jpg",
+      "label": "无语吐槽色鬼",
+      "tags": [
+        "死鱼眼",
+        "嫌弃",
+        "吐槽",
+        "冷淡"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-abaad12d15.jpg",
+      "label": "收到·abaad12d15",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-3983a3a6e0.jpg",
+      "label": "推眼镜凝视",
+      "tags": [
+        "知性",
+        "高冷",
+        "动作"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-7ef3305bbb.jpg",
+      "label": "得意吐舌比耶",
+      "tags": [
+        "卖萌",
+        "得意",
+        "比耶",
+        "卡通"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-4abf66b216.jpg",
+      "label": "委屈流泪",
+      "tags": [
+        "哭泣",
+        "难过",
+        "卖萌"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-47302251e9.jpg",
+      "label": "微笑举牌骂猪",
+      "tags": [
+        "腹黑",
+        "举牌",
+        "嘲讽",
+        "假笑"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c3c8ac2a82.jpg",
+      "label": "收到·c3c8ac2a82",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-508ddffb4e.jpg",
+      "label": "眯眼开心笑",
+      "tags": [
+        "二次元",
+        "笑容",
+        "可爱",
+        "治愈"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-160ba58693.jpg",
+      "label": "粉毛探头卖萌",
+      "tags": [
+        "可爱",
+        "探头",
+        "二次元"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-0168eeab74.jpg",
+      "label": "收到·0168eeab74",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-0a8b5a21f6.png",
+      "label": "无语看手机",
+      "tags": [
+        "下头",
+        "尴尬",
+        "流汗",
+        "嫌弃"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-447cf7546c.jpg",
+      "label": "神人摆烂",
+      "tags": [
+        "金发",
+        "死鱼眼",
+        "摆烂"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-484e6d8868.jpg",
+      "label": "新娘甜美微笑",
+      "tags": [
+        "婚纱",
+        "治愈",
+        "开心"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d95852536a.jpg",
+      "label": "收到·d95852536a",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-2c4902f3f7.jpg",
+      "label": "温柔微笑",
+      "tags": [
+        "治愈",
+        "甜妹",
+        "脸红"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-218518caef.png",
+      "label": "开心探头看手机",
+      "tags": [
+        "Mon3st",
+        "可爱",
+        "玩手机",
+        "探头"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-3b86dbc9b6.png",
+      "label": "害羞捏脸卖萌",
+      "tags": [
+        "脸红",
+        "捏脸",
+        "可爱",
+        "二次元"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-086dd94aa6.jpg",
+      "label": "生气指人放狠话",
+      "tags": [
+        "二次元",
+        "愤怒",
+        "指责",
+        "表情包"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-a946c5b7ec.jpg",
+      "label": "粉毛举拳加油",
+      "tags": [
+        "二次元",
+        "握拳",
+        "打气"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-71c44d018a.png",
+      "label": "举牌求贴贴",
+      "tags": [
+        "二次元",
+        "撒娇",
+        "表白",
+        "可爱"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c1d79e94c1.jpg",
+      "label": "挥勺暴打",
+      "tags": [
+        "搞笑",
+        "动作",
+        "二次元"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-7ab0b0896e.jpg",
+      "label": "自信微笑",
+      "tags": [
+        "明日方舟",
+        "黍",
+        "二次元"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-808883a6ff.jpg",
+      "label": "委屈喝闷酒",
+      "tags": [
+        "哭泣",
+        "喝酒",
+        "难过"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-bba5d54292.png",
+      "label": "乖巧被摸头",
+      "tags": [
+        "毛绒玩偶",
+        "治愈",
+        "可爱"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-9c99d9bd70.jpg",
+      "label": "花子君痴汉笑",
+      "tags": [
+        "二次元",
+        "女仆",
+        "痴汉",
+        "撩人"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-9e5e35791c.jpg",
+      "label": "绷带少女呆立",
+      "tags": [
+        "二次元",
+        "眼罩",
+        "面无表情"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-baaefbe470.png",
+      "label": "开心求抱抱",
+      "tags": [
+        "诺艾尔",
+        "张开双臂",
+        "卖萌"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-956b9f6ec4.jpg",
+      "label": "开心大笑",
+      "tags": [
+        "二次元",
+        "可爱",
+        "笑容"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-2e6be94934.png",
+      "label": "无辜躺平",
+      "tags": [
+        "二次元",
+        "自嘲",
+        "可爱"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-0bf76a4a1b.jpg",
+      "label": "躺床挑逗杂鱼",
+      "tags": [
+        "二次元",
+        "诱惑",
+        "撒娇"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-3c57eafc9b.png",
+      "label": "委屈巴巴",
+      "tags": [
+        "芙兰朵露",
+        "可怜",
+        "水汪汪",
+        "卖萌"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-0fec35ea59.jpg",
+      "label": "贴贴秀恩爱",
+      "tags": [
+        "百合",
+        "亲昵",
+        "开心"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-56ab43596c.png",
+      "label": "泪目认清现实",
+      "tags": [
+        "流泪",
+        "自嘲",
+        "网友",
+        "扎心"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-52f6b58bbe.jpg",
+      "label": "委屈大哭",
+      "tags": [
+        "哭泣",
+        "眼泪",
+        "卖萌"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-c0d42176f9.jpg",
+      "label": "睡眼惺忪刚醒",
+      "tags": [
+        "困倦",
+        "起床",
+        "呆萌"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-63da45a7fd.jpg",
+      "label": "尴尬赔笑",
+      "tags": [
+        "二次元",
+        "强颜欢笑",
+        "无奈"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-ceba753a28.jpg",
+      "label": "面无表情裹被",
+      "tags": [
+        "呆滞",
+        "裹被子",
+        "Q版"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-5d15cf8bdf.jpg",
+      "label": "开心大笑",
+      "tags": [
+        "可爱",
+        "治愈",
+        "笑容"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-44ed4efad3.jpg",
+      "label": "气到原地晕倒",
+      "tags": [
+        "生气",
+        "无语",
+        "晕眩"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq商店-605a47d730.png",
+      "label": "困到灵魂出窍",
+      "tags": [
+        "摸鱼",
+        "犯困",
+        "上班",
+        "卡通"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收藏-45ca3c64cd.jpg",
+      "label": "粉毛疑惑抱人",
+      "tags": [
+        "二次元",
+        "疑惑",
+        "拥抱",
+        "挑逗"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq商店-eb55deb3e0.png",
+      "label": "这扯不扯啊",
+      "tags": [
+        "二次元",
+        "卖萌",
+        "打招呼",
+        "搞怪"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收到-6de1b2f1d7.png",
+      "label": "面无表情凝视",
+      "tags": [
+        "呆滞",
+        "凝视",
+        "高冷"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-a4cef9e015.png",
+      "label": "一拳打扁邪恶",
+      "tags": [
+        "琪露诺",
+        "物理超度",
+        "自信"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-1364f6f97f.jpg",
+      "label": "骑小摩托兜风",
+      "tags": [
+        "骑行",
+        "兜风",
+        "二次元"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-3948354f7e.jpg",
+      "label": "被戳脸震惊",
+      "tags": [
+        "猫耳娘",
+        "震惊",
+        "戳脸"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-934e1aa0f4.png",
+      "label": "头顶趴着猫",
+      "tags": [
+        "若叶睦",
+        "BanGDream",
+        "面无表情"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-1e65e6fd1b.jpg",
+      "label": "呆萌开心笑",
+      "tags": [
+        "初音未来",
+        "傻乐",
+        "可爱"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-1d3ae33bd3.jpg",
+      "label": "一拳打扁邪恶",
+      "tags": [
+        "琪露诺",
+        "恶搞",
+        "打击"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-71fae7011c.png",
+      "label": "求抱抱",
+      "tags": [
+        "撒娇",
+        "张开双臂",
+        "邀请"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-46c0681cfe.jpg",
+      "label": "疯狂捶地大笑",
+      "tags": [
+        "笑死",
+        "狂喜",
+        "捶地"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d88e987e35.jpg",
+      "label": "托腮思考中",
+      "tags": [
+        "思考",
+        "呆萌",
+        "托腮"
+      ],
+      "emotion": "think",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-9fba147bd2.jpg",
+      "label": "叼烟求点火",
+      "tags": [
+        "爱莉希雅",
+        "点烟",
+        "社会"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-90d1f686d8.png",
+      "label": "开心推销自己",
+      "tags": [
+        "二次元",
+        "开朗",
+        "玩梗"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-0729d6f6ba.png",
+      "label": "呆萌歪头杀",
+      "tags": [
+        "二次元",
+        "可爱",
+        "平静"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c54cd9f643.jpg",
+      "label": "推眼镜凝视",
+      "tags": [
+        "二次元",
+        "高冷",
+        "知性"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-182cc80884.jpg",
+      "label": "主动戴项圈",
+      "tags": [
+        "二次元",
+        "可爱",
+        "顺从",
+        "颜艺"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-ba07e95eaa.jpg",
+      "label": "面无表情说一般",
+      "tags": [
+        "冷淡",
+        "无语",
+        "敷衍"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-b5ba92016a.png",
+      "label": "熟睡被摸",
+      "tags": [
+        "睡觉",
+        "二次元",
+        "群友"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-5ea6824061.jpg",
+      "label": "惊讶流汗呆住",
+      "tags": [
+        "震惊",
+        "流汗",
+        "呆滞"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-cf6ef71909.jpg",
+      "label": "呆萌站立",
+      "tags": [
+        "二次元",
+        "猫耳",
+        "可爱"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-551b416784.jpg",
+      "label": "开心露小虎牙",
+      "tags": [
+        "卖萌",
+        "可爱",
+        "金发",
+        "红瞳"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq商店-72d767f338.png",
+      "label": "猫耳开心大笑",
+      "tags": [
+        "开心",
+        "大笑",
+        "猫耳",
+        "可爱"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收藏-27b8c02683.jpg",
+      "label": "尴尬赔笑",
+      "tags": [
+        "无语",
+        "勉强",
+        "流汗"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-4f728eed93.jpg",
+      "label": "淡定喝茶",
+      "tags": [
+        "吃瓜",
+        "无语",
+        "淡定"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-a400ea03e5.png",
+      "label": "震惊捂头",
+      "tags": [
+        "奶龙",
+        "崩溃",
+        "惊讶"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-4fddf85e30.jpg",
+      "label": "崩溃大哭",
+      "tags": [
+        "初音未来",
+        "流泪",
+        "委屈"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-9ff9974dd8.jpg",
+      "label": "眯眼微笑",
+      "tags": [
+        "开心",
+        "治愈",
+        "粉毛"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-7c6c2f7151.jpg",
+      "label": "嫌弃流汗",
+      "tags": [
+        "无语",
+        "嫌弃",
+        "流汗",
+        "二次元"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-67047fe59c.jpg",
+      "label": "震惊抱头",
+      "tags": [
+        "崩坏星穹铁道",
+        "流萤",
+        "惊恐",
+        "呆滞"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-a8a9f6d628.jpg",
+      "label": "呆滞疑惑脸",
+      "tags": [
+        "无语",
+        "懵逼",
+        "质疑"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-488a4daf4e.jpg",
+      "label": "粉毛鼓脸生气",
+      "tags": [
+        "生气",
+        "可爱",
+        "鼓脸",
+        "二次元"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-a5c54d0960.jpg",
+      "label": "淡定喝茶",
+      "tags": [
+        "猫耳",
+        "喝茶",
+        "淡定"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-e6a2018c33.jpg",
+      "label": "大声密谋吐槽",
+      "tags": [
+        "吃瓜",
+        "吐槽",
+        "二次元"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-68ac566046.jpg",
+      "label": "温柔摸头安慰",
+      "tags": [
+        "摸头",
+        "安慰",
+        "百合",
+        "宠溺"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-9551782bd5.jpg",
+      "label": "掀被求抱抱",
+      "tags": [
+        "撒娇",
+        "求抱",
+        "可爱"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-6db3e554da.png",
+      "label": "奶龙挥手打招呼",
+      "tags": [
+        "奶龙",
+        "挥手",
+        "可爱",
+        "打招呼"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-655ad9def0.jpg",
+      "label": "崩溃大哭求饶",
+      "tags": [
+        "流泪",
+        "漫画",
+        "绝望"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-1909b73dd7.jpg",
+      "label": "暗中观察",
+      "tags": [
+        "思考",
+        "眼神",
+        "呆萌"
+      ],
+      "emotion": "think",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-06b7e9ca4c.jpg",
+      "label": "粉毛呆萌发问",
+      "tags": [
+        "二次元",
+        "粉毛",
+        "直球",
+        "表情包"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-40cc544ebb.jpg",
+      "label": "趴桌呼呼大睡",
+      "tags": [
+        "睡觉",
+        "流口水",
+        "可爱"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-b2a4ee9014.png",
+      "label": "闭眼安睡",
+      "tags": [
+        "睡觉",
+        "可爱",
+        "治愈"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c430b8b923.jpg",
+      "label": "收到·c430b8b923",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq商店-7870664378.png",
+      "label": "生气流泪",
+      "tags": [
+        "委屈",
+        "愤怒",
+        "哭哭"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收藏-63a00015ce.jpg",
+      "label": "爱心眼比耶",
+      "tags": [
+        "卖萌",
+        "比耶",
+        "花痴"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-c3eb176706.jpg",
+      "label": "收到·c3eb176706",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-56f4d8bd62.png",
+      "label": "无语死鱼眼",
+      "tags": [
+        "呆滞",
+        "无语",
+        "鄙视"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-2d51e2aaeb.png",
+      "label": "猫娘开心卖萌",
+      "tags": [
+        "猫耳",
+        "元气",
+        "可爱"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d73a99013e.jpg",
+      "label": "呆滞张嘴惊讶",
+      "tags": [
+        "二次元",
+        "震惊",
+        "呆萌"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-2ee8ea66ae.jpg",
+      "label": "把你抓去涩涩",
+      "tags": [
+        "二次元",
+        "表情包",
+        "搞怪"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-c1dae67d64.jpg",
+      "label": "呆滞震惊脸",
+      "tags": [
+        "瞳孔地震",
+        "懵圈",
+        "呆毛"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d2d859ac0e.png",
+      "label": "女仆开心卖萌",
+      "tags": [
+        "二次元",
+        "女仆装",
+        "可爱"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-52cce2cd5d.png",
+      "label": "震惊流汗",
+      "tags": [
+        "震惊",
+        "流汗",
+        "无语"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d3caf811c4.jpg",
+      "label": "开心喝奶茶",
+      "tags": [
+        "可爱",
+        "卖萌",
+        "吃货"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-3716bcb47b.jpg",
+      "label": "粉发叼烟御姐",
+      "tags": [
+        "抽烟",
+        "高冷",
+        "粉毛",
+        "眼神犀利"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-3dc3bcccb7.jpg",
+      "label": "举牌冒个泡",
+      "tags": [
+        "生气",
+        "举牌",
+        "二次元"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-1425358eac.jpg",
+      "label": "兴奋张嘴大笑",
+      "tags": [
+        "OMNOM",
+        "疯狂",
+        "开心"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-50cb5074ea.png",
+      "label": "呆萌看手机",
+      "tags": [
+        "日常",
+        "玩手机",
+        "发呆"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-07b0a2506e.png",
+      "label": "震惊张嘴呆住",
+      "tags": [
+        "亚托莉",
+        "震惊",
+        "呆滞"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-ccf84a45ff.jpg",
+      "label": "气鼓鼓冒烟",
+      "tags": [
+        "生气",
+        "炸毛",
+        "可爱",
+        "吐槽"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-cbaa138c2e.jpg",
+      "label": "自信晒图嘲讽",
+      "tags": [
+        "得意",
+        "炫耀",
+        "搞怪"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-4ef13dad9d.jpg",
+      "label": "收到·4ef13dad9d",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-6e3c374525.png",
+      "label": "气鼓鼓握拳",
+      "tags": [
+        "生气",
+        "握拳",
+        "傲娇"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-7ecbe7c11b.jpg",
+      "label": "委屈含泪",
+      "tags": [
+        "哭泣",
+        "卖萌",
+        "可怜"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-288bbaed86.jpg",
+      "label": "疯狂想把你配了",
+      "tags": [
+        "拉郎配",
+        "磕学家",
+        "兴奋",
+        "白毛"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-95c00e78c8.png",
+      "label": "暴怒吐槽色狼",
+      "tags": [
+        "愤怒",
+        "吐槽",
+        "二次元",
+        "咆哮"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-4d18c0f706.jpg",
+      "label": "比心发射爱心",
+      "tags": [
+        "二次元",
+        "手势舞",
+        "可爱",
+        "表白"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-939f76f2b9.png",
+      "label": "收到·939f76f2b9",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-b1b3a67158.jpg",
+      "label": "探头暗中观察",
+      "tags": [
+        "卖萌",
+        "好奇",
+        "二次元"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-9d4b13dd78.jpg",
+      "label": "像素少女并排",
+      "tags": [
+        "像素风",
+        "二次元",
+        "日常",
+        "双人"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-6174817435.jpg",
+      "label": "兴奋举牌吐舌",
+      "tags": [
+        "Doro",
+        "搞怪",
+        "兴奋"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-99fdc3b070.jpg",
+      "label": "震惊瞳孔地震",
+      "tags": [
+        "呆滞",
+        "惊讶",
+        "瞪眼",
+        "懵了"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-0abea1f446.png",
+      "label": "面无表情凝视",
+      "tags": [
+        "崩坏星穹铁道",
+        "流萤",
+        "呆滞",
+        "平静"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-08a722d385.jpg",
+      "label": "收到·08a722d385",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-01403d8861.jpg",
+      "label": "害羞捂脸真香",
+      "tags": [
+        "二次元",
+        "花痴",
+        "害羞",
+        "真香"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-23c8a458ce.jpg",
+      "label": "收到·23c8a458ce",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-387035e57c.jpg",
+      "label": "崩溃大哭",
+      "tags": [
+        "哭泣",
+        "悲伤",
+        "发泄"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-0b326a72a5.jpg",
+      "label": "想说的话卡住了",
+      "tags": [
+        "震惊",
+        "无语",
+        "张嘴"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-88b45f267d.jpg",
+      "label": "傲娇大喊笨蛋",
+      "tags": [
+        "傲娇",
+        "害羞",
+        "骂人",
+        "二次元"
+      ],
+      "emotion": "tsundere",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-0c90227ac5.jpg",
+      "label": "呆萌站姿",
+      "tags": [
+        "二次元",
+        "猫耳",
+        "可爱"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-ea019bb1e1.jpg",
+      "label": "哭穷卖惨",
+      "tags": [
+        "二次元",
+        "猫耳",
+        "没钱",
+        "委屈"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-aff03c0a78.jpg",
+      "label": "柴郡看笨蛋",
+      "tags": [
+        "碧蓝航线",
+        "无语",
+        "凝视"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-bb2f921e9b.jpg",
+      "label": "粉毛萌妹开心",
+      "tags": [
+        "可爱",
+        "治愈",
+        "比心"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-fac789ef23.jpg",
+      "label": "被看穿害羞",
+      "tags": [
+        "尴尬",
+        "脸红",
+        "傲娇"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-0bd67727d0.jpg",
+      "label": "指认上面是笨蛋",
+      "tags": [
+        "初音未来",
+        "搞怪",
+        "手指向上",
+        "表情包"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-6622b935aa.png",
+      "label": "被窝求贴贴",
+      "tags": [
+        "二次元",
+        "单身狗",
+        "渴望恋爱",
+        "搞笑"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-6c69de2c2f.gif",
+      "label": "开心捂嘴偷笑",
+      "tags": [
+        "爱莉希雅",
+        "可爱",
+        "捂嘴",
+        "得意"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-cb3be1fe17.jpg",
+      "label": "双眼放光期待",
+      "tags": [
+        "兴奋",
+        "星星眼",
+        "期待",
+        "流口水"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-6c528965f3.png",
+      "label": "咬爪卖萌",
+      "tags": [
+        "可爱",
+        "兽耳娘",
+        "互动"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-d5a586a206.png",
+      "label": "掀裙色诱",
+      "tags": [
+        "二次元",
+        "福利",
+        "诱惑"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-2e87a977c8.jpg",
+      "label": "托腮思考中",
+      "tags": [
+        "思考",
+        "发呆",
+        "卖萌"
+      ],
+      "emotion": "think",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-d430ec8a47.jpg",
+      "label": "收到·d430ec8a47",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-2e3f0569d4.jpg",
+      "label": "拿放大镜观察",
+      "tags": [
+        "好奇",
+        "观察",
+        "吃瓜"
+      ],
+      "emotion": "think",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-8f7101aa12.png",
+      "label": "震惊质疑",
+      "tags": [
+        "质疑",
+        "震惊",
+        "无语"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-73ee222108.png",
+      "label": "无语流汗",
+      "tags": [
+        "简笔画",
+        "尴尬",
+        "无语"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-0aa2accf2b.jpg",
+      "label": "开心卖萌",
+      "tags": [
+        "可爱",
+        "大眼睛",
+        "粉毛"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-6276fca251.png",
+      "label": "被拎起来呆滞",
+      "tags": [
+        "无语",
+        "呆滞",
+        "被动",
+        "Q版"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-5c54069b0a.jpg",
+      "label": "收到·5c54069b0a",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-934d737d36.jpg",
+      "label": "疯狂嗷呜大叫",
+      "tags": [
+        "发疯",
+        "咆哮",
+        "搞怪"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-37cef353d8.png",
+      "label": "开心吃薯条",
+      "tags": [
+        "吃货",
+        "可爱",
+        "享受美食"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-398031771e.gif",
+      "label": "向日葵傻笑",
+      "tags": [
+        "植物大战僵尸",
+        "搞笑",
+        "开心"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-851910b2fd.jpg",
+      "label": "收到·851910b2fd",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-a89a9f8054.jpg",
+      "label": "趴地炸毛哈气",
+      "tags": [
+        "生气",
+        "炸毛",
+        "哈气",
+        "Q版"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-62c4d6064a.jpg",
+      "label": "尴尬流汗微笑",
+      "tags": [
+        "流汗",
+        "尴尬",
+        "微笑"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-65aabadb8c.jpg",
+      "label": "猫耳少女微笑",
+      "tags": [
+        "二次元",
+        "可爱",
+        "呆萌"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-6a263beab0.png",
+      "label": "收到·6a263beab0",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-30a9af617f.jpg",
+      "label": "猫猫出拳",
+      "tags": [
+        "吃我一拳",
+        "可爱",
+        "搞怪"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-2c9b44acfe.png",
+      "label": "开心投降喵",
+      "tags": [
+        "卖萌",
+        "举手",
+        "二次元"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c8a3b6652d.jpg",
+      "label": "眯眼微笑",
+      "tags": [
+        "开心",
+        "卖萌",
+        "治愈"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d4aba7410a.jpg",
+      "label": "收到·d4aba7410a",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq商店-6c1b185674.png",
+      "label": "眨眼卖萌",
+      "tags": [
+        "可爱",
+        "开心",
+        "二次元"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收到-0acecc2de6.jpg",
+      "label": "收到·0acecc2de6",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-812809906c.png",
+      "label": "铁窗泪眼汪汪",
+      "tags": [
+        "委屈",
+        "卖萌",
+        "哭泣",
+        "牢底坐穿"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-03be0765a1.jpg",
+      "label": "愤怒吐槽嫌弃",
+      "tags": [
+        "BanGDream",
+        "若叶睦",
+        "生气",
+        "吐槽"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-10b1ab8448.jpg",
+      "label": "时钟头站立",
+      "tags": [
+        "监控人",
+        "马桶人",
+        "抽象"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-c88a3fa5ac.jpg",
+      "label": "惊讶捂嘴",
+      "tags": [
+        "后藤一里",
+        "震惊",
+        "呆萌"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-2611d91522.jpg",
+      "label": "兴奋求侵犯",
+      "tags": [
+        "白毛",
+        "狂气",
+        "二次元"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-0c0aafbc4a.jpg",
+      "label": "给钱什么都做",
+      "tags": [
+        "眼冒金星",
+        "贪财",
+        "二次元"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-c8d821c867.jpg",
+      "label": "震惊流汗张嘴",
+      "tags": [
+        "震惊",
+        "流汗",
+        "呆滞"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-2f4b246c1a.jpg",
+      "label": "呆滞张嘴",
+      "tags": [
+        "震惊",
+        "懵圈",
+        "二次元"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-423389f140.jpg",
+      "label": "困倦流口水",
+      "tags": [
+        "打瞌睡",
+        "呆萌",
+        "二次元"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-7209687b44.png",
+      "label": "猫耳少女思考",
+      "tags": [
+        "卖萌",
+        "疑惑",
+        "二次元"
+      ],
+      "emotion": "think",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-344b553339.png",
+      "label": "呆滞震惊脸",
+      "tags": [
+        "傻眼",
+        "懵圈",
+        "震惊"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-02b642db03.jpg",
+      "label": "震惊瞳孔地震",
+      "tags": [
+        "惊恐",
+        "呆滞",
+        "特写"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-941e0de198.png",
+      "label": "二次元牵狗梗图",
+      "tags": [
+        "动漫角色",
+        "文字梗",
+        "搞笑"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c02fa8f8ce.jpg",
+      "label": "比心发射爱心",
+      "tags": [
+        "二次元",
+        "手势",
+        "可爱",
+        "表白"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-2109bebeaa.jpg",
+      "label": "气鼓鼓敲键盘",
+      "tags": [
+        "生气",
+        "暴躁",
+        "Q版",
+        "女仆"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-b51a1803e0.jpg",
+      "label": "收到·b51a1803e0",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c3d419b60f.png",
+      "label": "无语盯视",
+      "tags": [
+        "盯",
+        "无语",
+        "嫌弃",
+        "黑白漫画"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-95d03ce9c8.jpg",
+      "label": "爱心眼卖萌",
+      "tags": [
+        "爱慕",
+        "心动",
+        "可爱"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-dc6ded057c.jpg",
+      "label": "天使猪睡觉",
+      "tags": [
+        "睡觉",
+        "可爱",
+        "卡通"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-37d6c7f811.jpg",
+      "label": "收到·37d6c7f811",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-0e397a4946.jpg",
+      "label": "瞳孔地震震惊",
+      "tags": [
+        "瞪眼",
+        "呆滞",
+        "震惊"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-ba7dc1f1e5.jpg",
+      "label": "可怜兮兮讨饭",
+      "tags": [
+        "卖萌",
+        "乞讨",
+        "委屈"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-319cff9a98.jpg",
+      "label": "收到·319cff9a98",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-4805ea462e.png",
+      "label": "暴躁推门放狠话",
+      "tags": [
+        "发疯",
+        "威胁",
+        "二次元"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-8b36f22a5f.jpg",
+      "label": "卑微求关注",
+      "tags": [
+        "阴暗爬行",
+        "发疯文学",
+        "二次元"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-8da47bf6ec.jpg",
+      "label": "淡定微笑",
+      "tags": [
+        "二次元",
+        "微笑",
+        "平静"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-cae21f61ce.jpg",
+      "label": "瞳孔地震震惊",
+      "tags": [
+        "震惊",
+        "呆滞",
+        "脸红",
+        "二次元"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-f6a01e7651.png",
+      "label": "墨镜捂嘴狂笑",
+      "tags": [
+        "搞怪",
+        "得意",
+        "大笑"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-117553b4b7.jpg",
+      "label": "震惊张嘴",
+      "tags": [
+        "惊讶",
+        "呆滞",
+        "表情包"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-31ce0ce981.jpg",
+      "label": "死鱼眼吃瓜",
+      "tags": [
+        "吃瓜群众",
+        "无语",
+        "淡定"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-538b8218ce.jpg",
+      "label": "收到·538b8218ce",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-e9b1e83cad.jpg",
+      "label": "爱心眼撒娇",
+      "tags": [
+        "卖萌",
+        "比心",
+        "可爱"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-df3559615d.jpg",
+      "label": "眼镜娘指人",
+      "tags": [
+        "泉此方",
+        "思考",
+        "指点"
+      ],
+      "emotion": "think",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d09bcc3f22.jpg",
+      "label": "委屈巴巴躲被窝",
+      "tags": [
+        "emo",
+        "可怜",
+        "躲藏"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-52ad46930a.jpg",
+      "label": "探头卖萌",
+      "tags": [
+        "可爱",
+        "好奇",
+        "打招呼"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-5ce2c95d0a.jpg",
+      "label": "收到·5ce2c95d0a",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-8ab069f577.jpg",
+      "label": "不爽嫌弃脸",
+      "tags": [
+        "生气",
+        "鄙视",
+        "傲娇"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-e50ee3c54a.jpg",
+      "label": "抱柠檬卖萌",
+      "tags": [
+        "初音未来",
+        "可爱",
+        "大眼睛"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-3281bd5162.jpg",
+      "label": "困倦低头",
+      "tags": [
+        "睡觉",
+        "疲惫",
+        "可爱"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-7be1966086.jpg",
+      "label": "红眼傲娇撇嘴",
+      "tags": [
+        "二次元",
+        "傲娇",
+        "黑化",
+        "可爱"
+      ],
+      "emotion": "tsundere",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-bb27e6ac8d.png",
+      "label": "乖巧微笑卖萌",
+      "tags": [
+        "可爱",
+        "二次元",
+        "微笑",
+        "卖萌"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-778d0ce94f.png",
+      "label": "无语流汗吐槽",
+      "tags": [
+        "流汗",
+        "吐槽",
+        "尴尬",
+        "表情包"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-82ce2ec1c2.png",
+      "label": "白发少女躺平",
+      "tags": [
+        "二次元",
+        "慵懒",
+        "躺平"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-dfa279bad8.gif",
+      "label": "无语看戏",
+      "tags": [
+        "呆滞",
+        "吃瓜",
+        "冷漠"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-1bb2cc3f2e.jpg",
+      "label": "奶龙比赞",
+      "tags": [
+        "认可",
+        "可爱",
+        "点赞"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-89a9e55a31.jpg",
+      "label": "不屑地想区区",
+      "tags": [
+        "轻蔑",
+        "淡定",
+        "嘲讽",
+        "二次元"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-3416fbdf4f.jpg",
+      "label": "拿喇叭喊起床",
+      "tags": [
+        "搞怪",
+        "元气",
+        "催促",
+        "二次元"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-fc0c8377a0.jpg",
+      "label": "搞砸一切哭诉",
+      "tags": [
+        "二次元",
+        "哭泣",
+        "委屈",
+        "道歉"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-2a8b2a0085.jpg",
+      "label": "呆萌眼镜娘",
+      "tags": [
+        "二次元",
+        "可爱",
+        "卖萌"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-13bbe41c8b.png",
+      "label": "猪猪侠严肃警告",
+      "tags": [
+        "愤怒",
+        "警告",
+        "搞笑"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-3d99c93c91.jpg",
+      "label": "生气鼓脸",
+      "tags": [
+        "傲娇",
+        "愤怒",
+        "可爱"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-2d8b639beb.jpg",
+      "label": "赛诺指人笑",
+      "tags": [
+        "二次元",
+        "开心",
+        "猫耳",
+        "指人"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-32af1151de.jpg",
+      "label": "深情凝视",
+      "tags": [
+        "二次元",
+        "老婆",
+        "表白",
+        "治愈"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-c93328db03.png",
+      "label": "收到·c93328db03",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-5c452cc6af.jpg",
+      "label": "收到·5c452cc6af",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-3564ab877f.jpg",
+      "label": "晕头转向流汗",
+      "tags": [
+        "晕眩",
+        "尴尬",
+        "二次元",
+        "流汗"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-8e744bd6cf.jpg",
+      "label": "红眼疯狂干饭",
+      "tags": [
+        "二次元",
+        "吃播",
+        "狂热",
+        "表情包"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-6cb4dd8ac4.jpg",
+      "label": "柴犬战术发呆",
+      "tags": [
+        "柴犬",
+        "呆滞",
+        "恶搞"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-aeba197d80.png",
+      "label": "蓝发醉酒瘫倒",
+      "tags": [
+        "喝酒",
+        "微醺",
+        "瘫软"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-db1693d6c4.jpg",
+      "label": "委屈流泪猫猫",
+      "tags": [
+        "哭泣",
+        "委屈",
+        "可怜",
+        "卖萌"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-4306627057.png",
+      "label": "流口水睡颜",
+      "tags": [
+        "睡觉",
+        "做梦",
+        "可爱"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-1f71fd61ea.jpg",
+      "label": "粉毛少女卖萌",
+      "tags": [
+        "可爱",
+        "二次元",
+        "治愈"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-86dc91e5c8.jpg",
+      "label": "呆滞提要求",
+      "tags": [
+        "面无表情",
+        "漫画截图",
+        "理直气壮"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-c21c58f13d.png",
+      "label": "猫耳少女发呆",
+      "tags": [
+        "二次元",
+        "猫耳",
+        "平静",
+        "呆萌"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-67ffdf6483.png",
+      "label": "开心露小虎牙",
+      "tags": [
+        "卖萌",
+        "虎牙",
+        "得意"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-45c5e85fbd.jpg",
+      "label": "鼓腮生气",
+      "tags": [
+        "生气",
+        "可爱",
+        "傲娇"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-848043eeb4.jpg",
+      "label": "收到·848043eeb4",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-9366e16a67.jpg",
+      "label": "嘲讽平胸",
+      "tags": [
+        "明日方舟",
+        "表情包",
+        "阴阳怪气",
+        "攻击性"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-4de58e8139.png",
+      "label": "瞳孔地震震惊",
+      "tags": [
+        "崩坏星穹铁道",
+        "三月七",
+        "呆滞",
+        "震惊"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-693b5e4ddb.jpg",
+      "label": "托腮凝视思考",
+      "tags": [
+        "思考",
+        "呆萌",
+        "托腮"
+      ],
+      "emotion": "think",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-8ca470fef3.jpg",
+      "label": "脸红心动",
+      "tags": [
+        "害羞",
+        "喜欢",
+        "漫画"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-274e8c3312.png",
+      "label": "收到·274e8c3312",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d9ec6493ef.png",
+      "label": "做不到就艾草",
+      "tags": [
+        "二次元",
+        "搞怪",
+        "表情包",
+        "玩梗"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-26f682b688.jpg",
+      "label": "乖巧被摸头",
+      "tags": [
+        "摸头",
+        "可爱",
+        "治愈"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-1aaec2bee5.gif",
+      "label": "持刀冷酷站姿",
+      "tags": [
+        "酷盖",
+        "武士",
+        "面瘫",
+        "二次元"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-df5108f0dd.png",
+      "label": "哈！气鼓鼓",
+      "tags": [
+        "生气",
+        "咆哮",
+        "Q版"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-8e82e0ae3f.png",
+      "label": "熟睡被摸",
+      "tags": [
+        "睡觉",
+        "二次元",
+        "搞怪",
+        "第一视角"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-f8176c167d.jpg",
+      "label": "宝宝撒娇求抱抱",
+      "tags": [
+        "卖萌",
+        "撒娇",
+        "奶嘴"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-0240ac7b64.png",
+      "label": "无语流汗",
+      "tags": [
+        "嫌弃",
+        "尴尬",
+        "兽耳娘"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c3ea0420e1.jpg",
+      "label": "崩溃大哭",
+      "tags": [
+        "哭泣",
+        "悲伤",
+        "手绘"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d4e97d9b32.jpg",
+      "label": "委屈道歉",
+      "tags": [
+        "难过",
+        "低头",
+        "白发"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-74df5ce274.jpg",
+      "label": "眼冒星星卖萌",
+      "tags": [
+        "可爱",
+        "期待",
+        "举包子",
+        "二次元"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-b288423e3d.jpg",
+      "label": "病娇抱玩偶",
+      "tags": [
+        "病娇",
+        "拥抱",
+        "疯狂"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-1faec19796.png",
+      "label": "傲娇托腮",
+      "tags": [
+        "二次元",
+        "萌系",
+        "傲娇"
+      ],
+      "emotion": "tsundere",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-7ff73e23e0.jpg",
+      "label": "呆滞张嘴",
+      "tags": [
+        "震惊",
+        "懵逼",
+        "女仆"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-041bf769ea.jpg",
+      "label": "震惊下头",
+      "tags": [
+        "二次元",
+        "看手机",
+        "无语",
+        "崩坏"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-2c56c6dc30.jpg",
+      "label": "开心刷手机",
+      "tags": [
+        "可爱",
+        "期待",
+        "聊天"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-2bd0ba4706.jpg",
+      "label": "白发酷姐比耶",
+      "tags": [
+        "二次元",
+        "比耶",
+        "冷酷"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-b07fccebbe.png",
+      "label": "开心猫娘比心",
+      "tags": [
+        "可爱",
+        "卖萌",
+        "元气"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-604b8f5605.png",
+      "label": "无语死鱼眼",
+      "tags": [
+        "冷漠",
+        "呆滞",
+        "敷衍"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-f559a238c4.png",
+      "label": "粉毛猫娘卖萌",
+      "tags": [
+        "二次元",
+        "可爱",
+        "治愈"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq商店-feb5dbc381.png",
+      "label": "困倦吐槽笨蛋",
+      "tags": [
+        "困倦",
+        "吐槽",
+        "铃芽之旅",
+        "表情包"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源商店"
+    },
+    {
+      "file": "qq收到-6984efcd08.png",
+      "label": "花痴看杂鱼",
+      "tags": [
+        "病娇",
+        "嘲讽",
+        "爱心"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-06015fc619.jpg",
+      "label": "委屈大哭",
+      "tags": [
+        "哭泣",
+        "二次元",
+        "卖萌"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-9c32fb5890.jpg",
+      "label": "猫娘开心爬行",
+      "tags": [
+        "猫耳",
+        "元气",
+        "兽耳娘"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-92cadcd5db.png",
+      "label": "收到·92cadcd5db",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-a59d6d689c.png",
+      "label": "得意坏笑看手机",
+      "tags": [
+        "坏笑",
+        "看手机",
+        "得意"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-00d83fd479.png",
+      "label": "元气眨眼笑",
+      "tags": [
+        "二次元",
+        "眨眼",
+        "可爱",
+        "开心"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-91c0848809.jpg",
+      "label": "兽耳娘激情喊话",
+      "tags": [
+        "二次元",
+        "表情包",
+        "搞怪",
+        "兽耳"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-2fa6b86894.jpg",
+      "label": "呆滞张嘴震惊",
+      "tags": [
+        "原神",
+        "芙宁娜",
+        "懵逼",
+        "震惊"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-41668c2a24.png",
+      "label": "死鱼眼鄙视",
+      "tags": [
+        "无语",
+        "蔑视",
+        "冷淡"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-844c542904.jpg",
+      "label": "被掐脖子无语",
+      "tags": [
+        "忍野忍",
+        "面无表情",
+        "被动"
+      ],
+      "emotion": "awkward",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-9deef304e3.png",
+      "label": "捧心卖萌",
+      "tags": [
+        "比心",
+        "可爱",
+        "喜欢"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-dcf06b5a32.png",
+      "label": "暗中观察",
+      "tags": [
+        "探头",
+        "星星眼",
+        "期待"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-2b22b130d1.jpg",
+      "label": "开心傻乐",
+      "tags": [
+        "猫耳娘",
+        "呆萌",
+        "傻笑"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-32435c2293.png",
+      "label": "粉毛开心看戏",
+      "tags": [
+        "波奇酱",
+        "吃瓜",
+        "呆萌"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-f12091ffa5.jpg",
+      "label": "害羞脸红甜笑",
+      "tags": [
+        "二次元",
+        "脸红",
+        "甜美",
+        "喜欢"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收藏-7a809b4f51.jpg",
+      "label": "呆滞傻乐",
+      "tags": [
+        "卖萌",
+        "发呆",
+        "可爱"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-0cd7f7d732.png",
+      "label": "开心大笑",
+      "tags": [
+        "大笑",
+        "二次元",
+        "可爱"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-5b2d88661d.png",
+      "label": "呆住惊讶",
+      "tags": [
+        "亚托莉",
+        "震惊",
+        "懵圈"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-11c37819e3.jpg",
+      "label": "上课困倦趴桌",
+      "tags": [
+        "打瞌睡",
+        "课堂",
+        "疲惫"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-18144c2f8b.png",
+      "label": "慵懒躺平喵",
+      "tags": [
+        "黑白漫画",
+        "慵懒",
+        "困倦",
+        "可爱"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-cd223ef274.png",
+      "label": "企鹅装酷狗中",
+      "tags": [
+        "二次元",
+        "搞怪",
+        "无语"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-1ae74b7e71.jpg",
+      "label": "震惊扒眼疑惑",
+      "tags": [
+        "丰川祥子",
+        "懵逼",
+        "质疑"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-c9ca689de6.png",
+      "label": "不服你来打我呀",
+      "tags": [
+        "挑衅",
+        "卖萌",
+        "二次元"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-ccfc658c80.jpg",
+      "label": "彼岸花下呆坐",
+      "tags": [
+        "Q版",
+        "发呆",
+        "抱球"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-27d33fcd00.jpg",
+      "label": "金发双马尾自拍",
+      "tags": [
+        "自拍",
+        "手机",
+        "可爱"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-aa59d7b250.png",
+      "label": "泡澡瘫软无力",
+      "tags": [
+        "二次元",
+        "洗澡",
+        "慵懒",
+        "可爱"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-50b868006b.jpg",
+      "label": "呆萌求带飞",
+      "tags": [
+        "二次元",
+        "猫耳娘",
+        "乖巧",
+        "期待"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-484e6c9974.jpg",
+      "label": "举牌表白行不行",
+      "tags": [
+        "二次元",
+        "表白",
+        "举牌",
+        "撩人"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-845c931e92.jpg",
+      "label": "满眼爱心花痴",
+      "tags": [
+        "眼冒爱心",
+        "花痴",
+        "喜欢"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-450f813681.png",
+      "label": "委屈含泪颤抖",
+      "tags": [
+        "哭泣",
+        "可怜",
+        "发抖"
+      ],
+      "emotion": "sad",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-5698eba8dc.png",
+      "label": "眼含泪光微笑",
+      "tags": [
+        "感动",
+        "喜极而泣",
+        "卖萌"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-a7853f197b.png",
+      "label": "睡梦中流口水",
+      "tags": [
+        "睡觉",
+        "做梦",
+        "流口水",
+        "可爱"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-2419c1bdf2.jpg",
+      "label": "开心提问啦",
+      "tags": [
+        "卖萌",
+        "举手",
+        "可爱"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-9fc32a0473.png",
+      "label": "面无表情发呆",
+      "tags": [
+        "康娜",
+        "呆滞",
+        "卖萌"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d2d887b784.jpg",
+      "label": "呆滞大眼特写",
+      "tags": [
+        "大头贴",
+        "懵逼",
+        "凝视"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-c5a911ed19.jpg",
+      "label": "困到断线了",
+      "tags": [
+        "睡觉",
+        "断电",
+        "可爱"
+      ],
+      "emotion": "sleepy",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-0733e923ee.jpg",
+      "label": "托腮思考中",
+      "tags": [
+        "思考",
+        "呆萌",
+        "疑惑"
+      ],
+      "emotion": "think",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-2c790715e5.jpg",
+      "label": "星星眼卖萌",
+      "tags": [
+        "可爱",
+        "期待",
+        "Q版"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-09b70a5747.jpg",
+      "label": "萝莉控离我远点",
+      "tags": [
+        "愤怒",
+        "挥拳",
+        "吐槽",
+        "拒绝"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-1a8cac42e0.jpg",
+      "label": "星星眼兴奋期待",
+      "tags": [
+        "星星眼",
+        "兴奋",
+        "期待",
+        "可爱"
+      ],
+      "emotion": "hype",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-d08794d9e6.jpg",
+      "label": "粉毛鼓嘴生气",
+      "tags": [
+        "生气",
+        "可爱",
+        "二次元"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-81f8f51bd1.png",
+      "label": "收到·81f8f51bd1",
+      "tags": [
+        "收到"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-8feb162d5e.jpg",
+      "label": "眯眼甜笑",
+      "tags": [
+        "开心",
+        "治愈",
+        "二次元"
+      ],
+      "emotion": "happy",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-1d4df440c5.jpg",
+      "label": "像素双人对视",
+      "tags": [
+        "像素风",
+        "二次元",
+        "日常",
+        "无语"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-0c5d332a1d.png",
+      "label": "杂鱼爱心眼",
+      "tags": [
+        "二次元",
+        "嘲讽",
+        "爱心眼"
+      ],
+      "emotion": "love",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-2a606884f8.png",
+      "label": "震惊抱头",
+      "tags": [
+        "奶龙",
+        "惊讶",
+        "崩溃"
+      ],
+      "emotion": "shock",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收藏-0a5e90f1cc.png",
+      "label": "兽耳娘呆滞",
+      "tags": [
+        "二次元",
+        "猫耳",
+        "发呆"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收藏"
+    },
+    {
+      "file": "qq收到-4468184b9c.jpg",
+      "label": "呆滞凝视",
+      "tags": [
+        "发呆",
+        "无语",
+        "凝视"
+      ],
+      "emotion": "neutral",
+      "note": "QQ本地表情导入 来源收到"
+    },
+    {
+      "file": "qq收到-b0818569f4.jpg",
+      "label": "嫌弃捂耳朵",
+      "tags": [
+        "鄙视",
+        "无语",
+        "拒绝",
+        "生气"
+      ],
+      "emotion": "angry",
+      "note": "QQ本地表情导入 来源收到"
     }
   ]
 }
